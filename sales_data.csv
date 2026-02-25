@@ -1,0 +1,1000 @@
+﻿Order_ID,Customer_ID,Order_Date,Region,Product_Category,Customer_Segment,Quantity,Unit_Price,Discount_Rate,Revenue,Cost,Profit,Payment_Method
+1,CUST3818,2024-08-18,North,Clothing,Corporate,5,300.68,0.27,1097.48,768.29,329.19,Credit Card
+2,CUST9689,2024-06-19,South,Beauty,Home Office,9,32.89,0.02,290.09,179.33,110.76,Debit Card
+3,CUST9147,2024-11-21,West,Sports,Corporate,5,345.61,0.25,1296.04,1022.6,273.44,Credit Card
+4,CUST7938,2024-07-19,North,Clothing,Consumer,1,444.5,0.06,417.83,280.99,136.84,UPI
+5,CUST5127,2024-10-28,South,Home & Kitchen,Consumer,5,65.13,0.21,257.26,151.9,105.36,Credit Card
+6,CUST4834,2024-10-22,North,Sports,Consumer,1,253.38,0.01,250.85,164.5,86.35,Credit Card
+7,CUST4649,2024-05-01,West,Electronics,Home Office,8,338.17,0.11,2407.77,1564.72,843.05,Credit Card
+8,CUST3844,2024-08-11,South,Clothing,Corporate,9,270.42,0.24,1849.67,1413.48,436.19,UPI
+9,CUST1425,2024-05-12,West,Electronics,Corporate,9,32.71,0.18,241.4,174.37,67.03,Credit Card
+10,CUST3261,2024-05-07,South,Beauty,Consumer,10,15.32,0.18,125.62,67.54,58.08,Debit Card
+11,CUST6670,2024-10-08,West,Electronics,Home Office,3,380.14,0.06,1071.99,830.81,241.18,Debit Card
+12,CUST7712,2024-10-07,East,Sports,Consumer,8,47.52,0.28,273.72,139.74,133.98,Net Banking
+13,CUST8987,2024-11-08,East,Beauty,Corporate,2,314.81,0.03,610.73,427.61,183.12,Net Banking
+14,CUST9996,2024-04-28,East,Electronics,Consumer,7,391.53,0.17,2274.79,1360.21,914.58,Net Banking
+15,CUST1446,2024-06-12,West,Home & Kitchen,Corporate,7,351.63,0.16,2067.58,1576.65,490.93,Credit Card
+16,CUST6518,2024-03-24,North,Sports,Home Office,3,458.71,0.12,1210.99,950.36,260.63,Credit Card
+17,CUST2327,2024-11-30,North,Sports,Home Office,9,131.27,0.08,1086.92,777.4,309.52,Cash on Delivery
+18,CUST3460,2024-05-30,West,Home & Kitchen,Home Office,1,78.16,0.22,60.96,48.32,12.64,Credit Card
+19,CUST4050,2024-07-08,East,Clothing,Corporate,8,193.01,0.22,1204.38,679.24,525.14,UPI
+20,CUST6901,2024-01-20,South,Beauty,Consumer,2,491.95,0.21,777.28,574.93,202.35,Net Banking
+21,CUST5672,2024-02-28,South,Sports,Consumer,5,173.4,0.06,814.98,429.59,385.39,Cash on Delivery
+22,CUST2312,2024-05-20,South,Electronics,Home Office,7,102.99,0.11,641.63,352.13,289.5,UPI
+23,CUST6575,2024-05-25,East,Sports,Consumer,10,485.04,0.28,3492.29,2336.81,1155.48,Cash on Delivery
+24,CUST5212,2024-08-01,North,Electronics,Home Office,5,49.24,0.29,174.8,91.65,83.15,Credit Card
+25,CUST7225,2024-06-06,West,Sports,Home Office,5,452.48,0.04,2171.9,1271.43,900.47,Net Banking
+26,CUST6665,2024-07-08,North,Beauty,Consumer,7,139.77,0.2,782.71,524.01,258.7,Credit Card
+27,CUST2433,2024-12-03,North,Beauty,Corporate,5,487.69,0.06,2292.14,1624.21,667.93,Cash on Delivery
+28,CUST4228,2024-01-27,North,Electronics,Home Office,4,451.46,0.21,1426.61,1042.7,383.91,Cash on Delivery
+29,CUST3085,2024-03-17,South,Clothing,Corporate,9,337.65,0.11,2704.58,1507.34,1197.24,Debit Card
+30,CUST5248,2024-01-10,North,Electronics,Consumer,1,212.23,0.17,176.15,117.51,58.64,Net Banking
+31,CUST9075,2024-09-27,East,Clothing,Corporate,2,477.26,0.1,859.07,457.67,401.4,Credit Card
+32,CUST7694,2024-06-12,North,Clothing,Corporate,3,367.14,0.22,859.11,640.93,218.18,UPI
+33,CUST6166,2024-07-31,North,Clothing,Home Office,5,136.72,0.01,676.76,445.03,231.73,UPI
+34,CUST6606,2024-05-09,South,Sports,Corporate,2,12.38,0.03,24.02,14.23,9.79,Cash on Delivery
+35,CUST6857,2024-05-05,South,Home & Kitchen,Consumer,8,114.79,0.09,835.67,524.48,311.19,Debit Card
+36,CUST3336,2024-05-01,South,Beauty,Consumer,5,345.8,0.2,1383.2,768.16,615.04,Credit Card
+37,CUST5307,2024-05-31,West,Home & Kitchen,Home Office,9,131.7,0.26,877.12,651.44,225.68,Credit Card
+38,CUST7397,2024-03-31,West,Sports,Consumer,8,101.11,0.19,655.19,397.32,257.87,Credit Card
+39,CUST4063,2024-12-21,North,Electronics,Consumer,5,112.39,0.04,539.47,426.82,112.65,Credit Card
+40,CUST8662,2024-10-25,South,Sports,Corporate,4,176.63,0.08,650.0,482.92,167.08,Debit Card
+41,CUST4872,2024-07-27,South,Beauty,Home Office,8,254.25,0.1,1830.6,1007.84,822.76,Debit Card
+42,CUST3866,2024-12-17,South,Home & Kitchen,Home Office,10,408.29,0.01,4042.07,3067.38,974.69,Debit Card
+43,CUST9814,2024-03-31,East,Electronics,Home Office,2,344.03,0.1,619.25,448.15,171.1,Credit Card
+44,CUST6864,2024-05-13,North,Sports,Consumer,6,391.41,0.07,2184.07,1725.68,458.39,Net Banking
+45,CUST7882,2024-08-13,North,Home & Kitchen,Corporate,3,89.64,0.19,217.83,114.45,103.38,Credit Card
+46,CUST2776,2024-12-11,West,Beauty,Consumer,7,311.02,0.18,1785.25,1106.47,678.78,Credit Card
+47,CUST9232,2024-03-29,West,Electronics,Consumer,2,185.11,0.06,348.01,222.61,125.4,Debit Card
+48,CUST4823,2024-11-20,East,Beauty,Corporate,4,462.95,0.03,1796.25,1275.73,520.52,Credit Card
+49,CUST4966,2024-10-19,West,Sports,Corporate,3,455.54,0.23,1052.3,597.16,455.14,Credit Card
+50,CUST5555,2024-11-03,West,Home & Kitchen,Consumer,8,343.02,0.23,2113.0,1655.35,457.65,Debit Card
+51,CUST2909,2024-03-01,North,Beauty,Home Office,2,440.95,0.2,705.52,368.38,337.14,UPI
+52,CUST5763,2024-07-04,West,Beauty,Consumer,1,303.08,0.05,287.93,168.17,119.76,Credit Card
+53,CUST9912,2024-12-17,East,Home & Kitchen,Home Office,5,152.16,0.28,547.78,336.22,211.56,Net Banking
+54,CUST6341,2024-07-03,East,Sports,Consumer,9,247.61,0.08,2050.21,1057.71,992.5,Debit Card
+55,CUST5835,2024-09-15,North,Clothing,Home Office,9,365.53,0.22,2566.02,1635.53,930.49,UPI
+56,CUST7665,2024-11-20,South,Sports,Consumer,4,93.44,0.11,332.65,224.51,108.14,Debit Card
+57,CUST4799,2024-09-09,South,Electronics,Home Office,6,253.05,0.06,1427.2,836.8,590.4,Credit Card
+58,CUST9090,2024-04-20,East,Home & Kitchen,Consumer,7,27.58,0.23,148.66,102.35,46.31,UPI
+59,CUST3474,2024-02-05,South,Sports,Corporate,3,11.4,0.14,29.41,20.43,8.98,Cash on Delivery
+60,CUST3431,2024-12-15,West,Electronics,Home Office,2,407.88,0.08,750.5,526.0,224.5,Debit Card
+61,CUST7243,2024-10-21,East,Home & Kitchen,Consumer,3,442.44,0.06,1247.68,974.48,273.2,Cash on Delivery
+62,CUST8473,2024-07-20,North,Clothing,Home Office,9,488.09,0.06,4129.24,2581.99,1547.25,Credit Card
+63,CUST6452,2024-07-18,North,Sports,Corporate,5,354.82,0.29,1259.61,646.54,613.07,Net Banking
+64,CUST8126,2024-08-12,North,Sports,Consumer,6,261.62,0.12,1381.35,763.1,618.25,UPI
+65,CUST8121,2024-03-08,West,Home & Kitchen,Consumer,7,474.99,0.13,2892.69,2188.26,704.43,Credit Card
+66,CUST2251,2024-09-02,East,Sports,Home Office,4,359.26,0.19,1164.0,796.82,367.18,Debit Card
+67,CUST1141,2024-05-23,North,Sports,Consumer,3,83.6,0.12,220.7,127.75,92.95,Net Banking
+68,CUST2459,2024-09-14,North,Sports,Corporate,8,496.26,0.01,3930.38,2612.48,1317.9,Debit Card
+69,CUST5147,2024-03-06,East,Electronics,Consumer,1,483.91,0.27,353.25,248.06,105.19,Debit Card
+70,CUST3245,2024-01-25,South,Electronics,Corporate,5,351.72,0.18,1442.05,975.17,466.88,Cash on Delivery
+71,CUST6730,2024-12-29,West,Clothing,Home Office,9,220.71,0.19,1608.98,903.6,705.38,Net Banking
+72,CUST4339,2024-07-01,North,Clothing,Corporate,9,198.52,0.16,1500.81,839.67,661.14,Cash on Delivery
+73,CUST3669,2024-05-15,East,Clothing,Consumer,2,29.41,0.24,44.7,32.48,12.22,Net Banking
+74,CUST5198,2024-11-06,East,Electronics,Home Office,10,458.64,0.05,4357.08,3329.31,1027.77,Debit Card
+75,CUST8926,2024-06-08,West,Home & Kitchen,Consumer,9,194.57,0.16,1470.95,947.86,523.09,Net Banking
+76,CUST5583,2024-02-24,South,Electronics,Corporate,1,343.25,0.16,288.33,206.76,81.57,UPI
+77,CUST4662,2024-02-24,West,Electronics,Home Office,3,435.52,0.0,1306.56,1035.67,270.89,Credit Card
+78,CUST3485,2024-07-09,East,Beauty,Consumer,5,307.34,0.2,1229.36,915.61,313.75,Cash on Delivery
+79,CUST5924,2024-08-30,East,Home & Kitchen,Corporate,3,245.73,0.15,626.61,393.07,233.54,UPI
+80,CUST3232,2024-04-22,East,Electronics,Corporate,5,216.14,0.14,929.4,611.31,318.09,Debit Card
+81,CUST7688,2024-05-15,West,Sports,Consumer,10,280.33,0.1,2522.97,1573.87,949.1,UPI
+82,CUST5785,2024-07-29,North,Home & Kitchen,Corporate,7,191.69,0.28,966.12,742.17,223.95,Cash on Delivery
+83,CUST5671,2024-05-30,West,Sports,Corporate,2,373.11,0.18,611.9,444.58,167.32,Debit Card
+84,CUST7244,2024-08-23,East,Sports,Consumer,5,453.49,0.21,1791.29,1039.93,751.36,Debit Card
+85,CUST3506,2024-10-22,West,Home & Kitchen,Home Office,3,235.78,0.18,580.02,428.99,151.03,UPI
+86,CUST4486,2024-07-26,North,Sports,Consumer,9,436.34,0.14,3377.27,2187.88,1189.39,UPI
+87,CUST8961,2024-05-30,East,Clothing,Corporate,2,462.53,0.03,897.31,517.16,380.15,Credit Card
+88,CUST1104,2024-05-16,West,Electronics,Consumer,4,192.98,0.13,671.57,508.05,163.52,UPI
+89,CUST8800,2024-03-22,North,Clothing,Consumer,3,159.96,0.17,398.3,227.33,170.97,Cash on Delivery
+90,CUST7351,2024-10-01,South,Home & Kitchen,Home Office,8,33.65,0.24,204.59,107.18,97.41,Debit Card
+91,CUST7216,2024-07-14,South,Clothing,Home Office,4,399.29,0.11,1421.47,1124.01,297.46,Credit Card
+92,CUST9675,2024-04-07,South,Sports,Home Office,5,198.68,0.2,794.72,464.23,330.49,Net Banking
+93,CUST6765,2024-08-24,East,Beauty,Home Office,1,177.26,0.08,163.08,116.14,46.94,UPI
+94,CUST4225,2024-03-05,West,Electronics,Home Office,10,285.08,0.1,2565.72,1647.72,918.0,Credit Card
+95,CUST4649,2024-07-31,West,Clothing,Home Office,6,233.17,0.03,1357.05,776.83,580.22,Credit Card
+96,CUST8945,2024-11-14,East,Clothing,Consumer,1,21.8,0.27,15.91,11.94,3.97,Net Banking
+97,CUST1548,2024-12-23,East,Home & Kitchen,Consumer,8,325.7,0.18,2136.59,1311.43,825.16,Net Banking
+98,CUST3717,2024-11-23,South,Home & Kitchen,Consumer,9,385.08,0.29,2460.66,1903.73,556.93,Credit Card
+99,CUST1528,2024-08-04,North,Beauty,Consumer,8,307.69,0.01,2436.9,1813.72,623.18,Cash on Delivery
+100,CUST7817,2024-12-28,North,Sports,Home Office,9,203.82,0.26,1357.44,734.78,622.66,UPI
+101,CUST8976,2024-03-15,West,Beauty,Corporate,1,204.17,0.07,189.88,107.84,82.04,Net Banking
+102,CUST6222,2024-10-06,North,Electronics,Corporate,4,207.52,0.21,655.76,487.69,168.07,UPI
+103,CUST8363,2024-06-22,South,Home & Kitchen,Home Office,10,484.73,0.06,4556.46,3134.56,1421.9,Credit Card
+104,CUST2744,2024-05-16,North,Home & Kitchen,Corporate,2,169.4,0.22,264.26,151.34,112.92,Cash on Delivery
+105,CUST3169,2024-05-24,North,Electronics,Consumer,1,290.59,0.03,281.87,177.94,103.93,UPI
+106,CUST2598,2024-02-08,North,Beauty,Corporate,5,383.84,0.13,1669.7,1146.37,523.33,Net Banking
+107,CUST4947,2024-09-20,West,Electronics,Consumer,8,131.09,0.01,1038.23,664.51,373.72,UPI
+108,CUST2651,2024-08-09,North,Beauty,Consumer,10,194.32,0.2,1554.56,1173.44,381.12,Debit Card
+109,CUST1461,2024-06-07,West,Beauty,Corporate,4,88.23,0.14,303.51,189.43,114.08,Cash on Delivery
+110,CUST9782,2024-10-27,West,Home & Kitchen,Home Office,9,195.52,0.23,1354.95,863.54,491.41,Cash on Delivery
+111,CUST8253,2024-12-04,East,Sports,Consumer,5,322.98,0.04,1550.3,1234.06,316.24,Net Banking
+112,CUST4895,2024-08-01,West,Beauty,Consumer,8,245.02,0.01,1940.56,1389.1,551.46,UPI
+113,CUST7990,2024-06-19,South,Beauty,Consumer,5,216.46,0.19,876.66,475.3,401.36,Debit Card
+114,CUST2911,2024-03-03,West,Home & Kitchen,Corporate,7,184.83,0.12,1138.55,851.2,287.35,Credit Card
+115,CUST3234,2024-12-16,South,Beauty,Home Office,3,106.8,0.27,233.89,153.81,80.08,UPI
+116,CUST4120,2024-12-02,North,Sports,Home Office,3,79.31,0.26,176.07,116.16,59.91,Debit Card
+117,CUST7995,2024-07-29,North,Home & Kitchen,Consumer,9,260.54,0.19,1899.34,1197.45,701.89,Debit Card
+118,CUST2438,2024-12-06,North,Sports,Home Office,4,447.78,0.22,1397.07,1099.09,297.98,Cash on Delivery
+119,CUST8107,2024-08-23,West,Beauty,Home Office,6,454.31,0.21,2153.43,1159.38,994.05,Net Banking
+120,CUST7284,2024-06-29,North,Electronics,Corporate,10,193.68,0.07,1801.22,1272.46,528.76,Cash on Delivery
+121,CUST3857,2024-03-31,North,Clothing,Corporate,8,401.68,0.23,2474.35,1677.94,796.41,Debit Card
+122,CUST8555,2024-10-29,South,Sports,Home Office,9,72.39,0.14,560.3,332.56,227.74,Net Banking
+123,CUST8178,2024-11-23,South,Beauty,Home Office,4,485.25,0.05,1843.95,1330.55,513.4,Net Banking
+124,CUST7400,2024-12-24,East,Sports,Corporate,6,281.62,0.17,1402.47,799.47,603.0,Net Banking
+125,CUST5077,2024-09-24,East,Home & Kitchen,Corporate,2,257.8,0.22,402.17,277.13,125.04,Debit Card
+126,CUST2986,2024-06-02,East,Home & Kitchen,Home Office,9,398.66,0.01,3552.06,1783.24,1768.82,Debit Card
+127,CUST1538,2024-02-11,South,Sports,Corporate,5,347.5,0.06,1633.25,1203.05,430.2,Credit Card
+128,CUST2395,2024-01-19,West,Clothing,Corporate,1,323.47,0.16,271.71,180.62,91.09,Debit Card
+129,CUST6421,2024-05-17,North,Sports,Consumer,6,329.62,0.18,1621.73,944.54,677.19,Credit Card
+130,CUST9886,2024-02-24,South,Home & Kitchen,Consumer,3,205.22,0.27,449.43,252.86,196.57,Cash on Delivery
+131,CUST3471,2024-11-03,West,Home & Kitchen,Home Office,1,405.84,0.23,312.5,192.89,119.61,UPI
+132,CUST9482,2024-06-19,East,Clothing,Home Office,2,230.22,0.07,428.21,268.87,159.34,Debit Card
+133,CUST5702,2024-10-15,West,Sports,Home Office,6,24.32,0.06,137.16,80.4,56.76,Debit Card
+134,CUST5894,2024-10-30,South,Electronics,Home Office,9,326.09,0.22,2289.15,1501.32,787.83,Debit Card
+135,CUST4166,2024-04-17,South,Home & Kitchen,Consumer,9,66.57,0.25,449.35,290.76,158.59,Net Banking
+136,CUST6712,2024-08-04,East,Electronics,Corporate,2,155.51,0.1,279.92,212.77,67.15,UPI
+137,CUST1710,2024-10-09,East,Sports,Corporate,4,194.77,0.29,553.15,424.29,128.86,Credit Card
+138,CUST7758,2024-01-10,West,Clothing,Corporate,10,485.94,0.12,4276.27,2891.99,1384.28,Debit Card
+139,CUST3076,2024-03-28,North,Electronics,Corporate,3,362.4,0.17,902.38,564.27,338.11,UPI
+140,CUST3573,2024-05-08,East,Home & Kitchen,Home Office,2,407.15,0.26,602.58,481.44,121.14,Net Banking
+141,CUST6652,2024-11-09,South,Beauty,Home Office,5,12.53,0.05,59.52,41.74,17.78,Debit Card
+142,CUST7288,2024-05-09,North,Home & Kitchen,Consumer,8,414.79,0.1,2986.49,2023.09,963.4,Net Banking
+143,CUST3799,2024-11-28,North,Electronics,Corporate,3,291.48,0.14,752.02,535.66,216.36,Credit Card
+144,CUST6941,2024-11-09,North,Electronics,Home Office,1,50.47,0.22,39.37,27.15,12.22,Credit Card
+145,CUST2543,2024-10-05,North,Home & Kitchen,Corporate,4,217.59,0.28,626.66,458.77,167.89,UPI
+146,CUST9948,2024-02-08,East,Clothing,Corporate,3,286.16,0.06,806.97,512.85,294.12,Debit Card
+147,CUST7739,2024-11-09,South,Electronics,Consumer,10,126.77,0.13,1102.9,732.58,370.32,Credit Card
+148,CUST9217,2024-10-25,East,Beauty,Consumer,4,106.55,0.06,400.63,223.38,177.25,Cash on Delivery
+149,CUST5807,2024-07-12,North,Electronics,Home Office,1,402.04,0.22,313.59,168.05,145.54,Cash on Delivery
+150,CUST8400,2024-02-20,West,Electronics,Consumer,2,227.86,0.29,323.56,233.32,90.24,Net Banking
+151,CUST6081,2024-10-20,West,Clothing,Corporate,5,469.2,0.3,1642.2,1027.21,614.99,Net Banking
+152,CUST8380,2024-02-21,South,Sports,Consumer,4,455.81,0.05,1732.08,1066.27,665.81,Net Banking
+153,CUST6245,2024-07-31,West,Electronics,Consumer,5,496.99,0.15,2112.21,1174.2,938.01,UPI
+154,CUST1126,2024-02-29,East,Electronics,Home Office,10,69.63,0.18,570.97,452.67,118.3,Cash on Delivery
+155,CUST6441,2024-12-10,East,Home & Kitchen,Consumer,10,333.11,0.13,2898.06,1564.72,1333.34,Cash on Delivery
+156,CUST5652,2024-02-15,South,Clothing,Corporate,9,373.86,0.08,3095.56,1642.06,1453.5,Credit Card
+157,CUST2327,2024-09-24,North,Electronics,Consumer,4,134.45,0.22,419.48,326.07,93.41,Credit Card
+158,CUST5171,2024-11-26,North,Beauty,Corporate,5,377.44,0.1,1698.48,1121.73,576.75,Net Banking
+159,CUST7305,2024-06-08,East,Sports,Home Office,6,208.42,0.3,875.36,640.49,234.87,Cash on Delivery
+160,CUST6927,2024-07-13,North,Clothing,Corporate,8,95.98,0.14,660.34,507.67,152.67,Net Banking
+161,CUST4350,2024-06-14,East,Clothing,Corporate,2,195.14,0.3,273.2,174.35,98.85,Cash on Delivery
+162,CUST1493,2024-07-08,South,Sports,Consumer,3,90.5,0.05,257.93,171.82,86.11,Debit Card
+163,CUST8149,2024-01-28,South,Electronics,Home Office,2,112.29,0.11,199.88,137.44,62.44,Net Banking
+164,CUST5062,2024-10-13,West,Sports,Corporate,3,20.53,0.11,54.82,39.35,15.47,Cash on Delivery
+165,CUST2897,2024-07-12,North,Sports,Home Office,2,270.99,0.26,401.07,263.88,137.19,UPI
+166,CUST8349,2024-10-30,South,Electronics,Home Office,1,46.77,0.27,34.14,22.86,11.28,Debit Card
+167,CUST8754,2024-01-27,West,Home & Kitchen,Corporate,1,132.39,0.01,131.07,99.68,31.39,UPI
+168,CUST5388,2024-03-28,North,Home & Kitchen,Consumer,7,141.5,0.11,881.54,528.88,352.66,Debit Card
+169,CUST5938,2024-09-21,North,Electronics,Corporate,2,239.73,0.05,455.49,332.27,123.22,Cash on Delivery
+170,CUST6179,2024-08-13,West,Home & Kitchen,Corporate,3,19.48,0.14,50.26,26.34,23.92,Debit Card
+171,CUST2983,2024-05-04,West,Sports,Corporate,3,239.26,0.11,638.82,493.53,145.29,Debit Card
+172,CUST3989,2024-10-19,West,Beauty,Consumer,10,364.97,0.15,3102.25,1556.86,1545.39,Debit Card
+173,CUST5395,2024-12-23,West,Electronics,Consumer,6,252.31,0.16,1271.64,886.61,385.03,Cash on Delivery
+174,CUST1693,2024-03-02,East,Beauty,Consumer,1,60.8,0.18,49.86,32.02,17.84,Credit Card
+175,CUST8627,2024-12-06,West,Clothing,Consumer,3,175.88,0.13,459.05,338.31,120.74,Cash on Delivery
+176,CUST9309,2024-12-30,South,Sports,Home Office,3,430.67,0.13,1124.05,659.34,464.71,Credit Card
+177,CUST5250,2024-11-17,West,Sports,Corporate,2,444.83,0.27,649.45,342.04,307.41,Net Banking
+178,CUST8690,2024-12-23,West,Sports,Consumer,5,460.84,0.1,2073.78,1428.71,645.07,Net Banking
+179,CUST8362,2024-05-17,West,Home & Kitchen,Corporate,8,245.53,0.13,1708.89,1196.79,512.1,UPI
+180,CUST7618,2024-04-12,East,Electronics,Home Office,9,47.97,0.14,371.29,292.23,79.06,Net Banking
+181,CUST4465,2024-12-15,West,Home & Kitchen,Corporate,7,64.9,0.29,322.55,244.75,77.8,Cash on Delivery
+182,CUST1017,2024-01-01,North,Clothing,Home Office,4,339.36,0.07,1262.42,701.36,561.06,Cash on Delivery
+183,CUST2273,2024-11-21,North,Beauty,Consumer,3,339.15,0.27,742.74,383.37,359.37,UPI
+184,CUST7838,2024-01-23,East,Beauty,Consumer,8,351.52,0.2,2249.73,1203.92,1045.81,Cash on Delivery
+185,CUST8819,2024-06-23,East,Home & Kitchen,Corporate,7,459.56,0.18,2637.87,1583.41,1054.46,Cash on Delivery
+186,CUST7271,2024-10-04,East,Beauty,Corporate,9,436.33,0.08,3612.81,2287.05,1325.76,Cash on Delivery
+187,CUST1138,2024-05-21,East,Electronics,Corporate,10,387.86,0.16,3258.02,2057.27,1200.75,UPI
+188,CUST3089,2024-09-02,West,Clothing,Consumer,5,403.88,0.11,1797.27,994.69,802.58,Cash on Delivery
+189,CUST7367,2024-09-15,South,Home & Kitchen,Corporate,7,462.76,0.25,2429.49,1874.19,555.3,Cash on Delivery
+190,CUST3714,2024-11-01,West,Home & Kitchen,Corporate,2,249.83,0.17,414.72,221.11,193.61,Cash on Delivery
+191,CUST3519,2024-08-10,South,Clothing,Consumer,1,130.86,0.19,106.0,77.22,28.78,Debit Card
+192,CUST4560,2024-12-03,North,Electronics,Consumer,6,486.01,0.13,2536.97,1401.6,1135.37,UPI
+193,CUST9389,2024-12-29,East,Electronics,Consumer,10,421.9,0.02,4134.62,2449.14,1685.48,Credit Card
+194,CUST8354,2024-01-20,South,Clothing,Corporate,8,491.63,0.1,3539.74,2542.42,997.32,Credit Card
+195,CUST1105,2024-07-31,West,Sports,Home Office,4,275.97,0.01,1092.84,552.67,540.17,Cash on Delivery
+196,CUST4247,2024-12-29,East,Electronics,Home Office,2,431.29,0.2,690.06,464.29,225.77,Debit Card
+197,CUST8870,2024-10-03,North,Beauty,Home Office,1,311.29,0.04,298.84,170.59,128.25,Net Banking
+198,CUST7153,2024-08-15,South,Sports,Home Office,7,279.68,0.03,1899.03,1357.43,541.6,Debit Card
+199,CUST3548,2024-02-18,North,Sports,Consumer,6,98.89,0.26,439.07,278.03,161.04,UPI
+200,CUST8488,2024-10-13,North,Electronics,Consumer,2,90.24,0.16,151.6,76.28,75.32,Net Banking
+201,CUST4672,2024-03-23,West,Beauty,Home Office,6,227.56,0.09,1242.48,806.39,436.09,Net Banking
+202,CUST2015,2024-05-13,West,Home & Kitchen,Corporate,3,213.71,0.23,493.67,264.1,229.57,Debit Card
+203,CUST8607,2024-04-25,North,Beauty,Corporate,4,365.98,0.03,1420.0,1078.6,341.4,Cash on Delivery
+204,CUST9243,2024-08-23,West,Sports,Home Office,4,88.39,0.08,325.28,211.51,113.77,Debit Card
+205,CUST6392,2024-03-03,West,Electronics,Consumer,7,220.63,0.14,1328.19,856.34,471.85,UPI
+206,CUST7189,2024-05-26,North,Beauty,Consumer,3,429.62,0.18,1056.87,711.23,345.64,UPI
+207,CUST3036,2024-03-25,East,Clothing,Corporate,6,96.63,0.05,550.79,392.17,158.62,Cash on Delivery
+208,CUST6790,2024-09-09,East,Beauty,Home Office,1,315.67,0.26,233.6,131.78,101.82,Credit Card
+209,CUST2303,2024-12-06,East,Electronics,Corporate,10,120.04,0.18,984.33,549.39,434.94,Credit Card
+210,CUST5697,2024-01-28,East,Clothing,Home Office,8,51.17,0.12,360.24,264.95,95.29,Net Banking
+211,CUST7433,2024-07-04,South,Home & Kitchen,Consumer,6,427.6,0.07,2386.01,1517.0,869.01,Net Banking
+212,CUST4516,2024-06-03,West,Clothing,Consumer,7,308.68,0.07,2009.51,1325.31,684.2,UPI
+213,CUST1012,2024-06-08,West,Home & Kitchen,Consumer,2,311.98,0.01,617.72,366.26,251.46,Debit Card
+214,CUST8996,2024-02-29,North,Sports,Corporate,6,384.38,0.23,1775.84,1351.22,424.62,Net Banking
+215,CUST6199,2024-03-09,North,Sports,Consumer,6,107.41,0.21,509.12,352.2,156.92,Cash on Delivery
+216,CUST4295,2024-09-27,West,Beauty,Corporate,4,452.19,0.02,1772.58,1003.65,768.93,Credit Card
+217,CUST7753,2024-04-06,East,Beauty,Home Office,8,107.33,0.19,695.5,539.06,156.44,UPI
+218,CUST5977,2024-12-06,East,Sports,Corporate,1,373.28,0.15,317.29,224.96,92.33,Debit Card
+219,CUST6069,2024-09-06,South,Electronics,Corporate,2,135.77,0.15,230.81,142.51,88.3,Credit Card
+220,CUST5365,2024-05-14,South,Sports,Home Office,2,78.25,0.06,147.11,101.43,45.68,Cash on Delivery
+221,CUST4514,2024-07-21,West,Beauty,Corporate,5,382.81,0.28,1378.12,844.0,534.12,Debit Card
+222,CUST1692,2024-04-09,East,Electronics,Consumer,7,456.14,0.24,2426.66,1667.7,758.96,Debit Card
+223,CUST2172,2024-12-02,East,Beauty,Corporate,8,19.88,0.03,154.27,84.23,70.04,Cash on Delivery
+224,CUST2076,2024-06-19,North,Electronics,Corporate,3,177.38,0.04,510.85,324.96,185.89,Debit Card
+225,CUST8153,2024-09-11,East,Clothing,Home Office,3,23.13,0.0,69.39,45.87,23.52,Credit Card
+226,CUST9443,2024-03-15,South,Beauty,Home Office,4,151.34,0.06,569.04,306.58,262.46,Net Banking
+227,CUST6779,2024-03-12,North,Electronics,Home Office,7,241.64,0.28,1217.87,807.87,410.0,Debit Card
+228,CUST3122,2024-07-08,West,Home & Kitchen,Home Office,4,61.89,0.26,183.19,97.35,85.84,Cash on Delivery
+229,CUST7850,2024-08-10,North,Sports,Corporate,3,180.78,0.21,428.45,296.06,132.39,UPI
+230,CUST8462,2024-07-06,North,Clothing,Consumer,8,344.21,0.25,2065.26,1145.25,920.01,Credit Card
+231,CUST2375,2024-03-08,South,Home & Kitchen,Home Office,6,149.89,0.25,674.5,533.5,141.0,Credit Card
+232,CUST6139,2024-07-31,East,Beauty,Home Office,3,413.7,0.03,1203.87,884.42,319.45,UPI
+233,CUST4905,2024-01-17,West,Beauty,Corporate,10,363.52,0.02,3562.5,1992.55,1569.95,UPI
+234,CUST9274,2024-12-05,East,Clothing,Corporate,2,33.47,0.24,50.87,35.58,15.29,UPI
+235,CUST6825,2024-05-03,East,Clothing,Consumer,4,434.84,0.27,1269.73,710.42,559.31,Net Banking
+236,CUST4150,2024-11-09,East,Clothing,Home Office,8,293.44,0.25,1760.64,908.11,852.53,Credit Card
+237,CUST1726,2024-03-25,East,Beauty,Corporate,5,488.21,0.15,2074.89,1504.94,569.95,Credit Card
+238,CUST6197,2024-08-30,West,Home & Kitchen,Home Office,9,132.4,0.05,1132.02,750.6,381.42,UPI
+239,CUST4316,2024-03-07,East,Beauty,Consumer,4,219.61,0.1,790.6,621.51,169.09,UPI
+240,CUST5736,2024-02-14,East,Sports,Consumer,9,244.6,0.15,1871.19,1450.79,420.4,Debit Card
+241,CUST3635,2024-05-04,North,Home & Kitchen,Home Office,5,91.35,0.18,374.54,218.99,155.55,Cash on Delivery
+242,CUST9193,2024-02-01,East,Sports,Corporate,3,91.03,0.11,243.05,154.67,88.38,Net Banking
+243,CUST7762,2024-06-22,West,Home & Kitchen,Consumer,6,356.38,0.04,2052.75,1074.51,978.24,Net Banking
+244,CUST1036,2024-09-22,West,Electronics,Consumer,6,167.89,0.14,866.31,576.86,289.45,Net Banking
+245,CUST1339,2024-08-12,North,Clothing,Corporate,8,223.98,0.08,1648.49,1207.27,441.22,Debit Card
+246,CUST8229,2024-09-24,West,Home & Kitchen,Consumer,3,56.38,0.2,135.31,84.9,50.41,UPI
+247,CUST6430,2024-07-19,East,Home & Kitchen,Consumer,3,206.64,0.18,508.33,401.72,106.61,Debit Card
+248,CUST7311,2024-02-02,East,Home & Kitchen,Home Office,9,44.27,0.12,350.62,199.99,150.63,UPI
+249,CUST7465,2024-05-10,South,Sports,Home Office,6,225.88,0.09,1233.3,805.46,427.84,Credit Card
+250,CUST9443,2024-03-15,South,Home & Kitchen,Home Office,6,259.45,0.26,1151.96,677.2,474.76,Debit Card
+251,CUST6657,2024-07-09,North,Sports,Home Office,3,306.87,0.19,745.69,412.42,333.27,UPI
+252,CUST9916,2024-04-26,North,Clothing,Corporate,3,430.71,0.21,1020.78,557.27,463.51,Cash on Delivery
+253,CUST5792,2024-10-16,South,Electronics,Home Office,1,67.75,0.24,51.49,27.37,24.12,Net Banking
+254,CUST7701,2024-01-08,South,Beauty,Home Office,10,211.48,0.25,1586.1,948.15,637.95,Cash on Delivery
+255,CUST5619,2024-01-08,South,Sports,Home Office,9,37.22,0.27,244.54,160.36,84.18,Net Banking
+256,CUST9219,2024-04-27,South,Beauty,Corporate,9,434.25,0.23,3009.35,2046.94,962.41,Net Banking
+257,CUST1390,2024-01-12,South,Clothing,Consumer,6,395.99,0.09,2162.11,1344.39,817.72,Debit Card
+258,CUST5952,2024-06-11,West,Sports,Home Office,2,171.95,0.08,316.39,177.36,139.03,UPI
+259,CUST5409,2024-01-09,South,Electronics,Consumer,3,109.39,0.21,259.25,195.13,64.12,Net Banking
+260,CUST8172,2024-12-27,East,Clothing,Corporate,5,225.84,0.01,1117.91,575.24,542.67,UPI
+261,CUST6776,2024-11-07,North,Electronics,Home Office,3,235.25,0.16,592.83,419.62,173.21,Debit Card
+262,CUST1463,2024-03-13,North,Clothing,Corporate,10,419.86,0.24,3190.94,1651.61,1539.33,Debit Card
+263,CUST4704,2024-03-19,North,Electronics,Consumer,3,91.46,0.12,241.45,136.94,104.51,UPI
+264,CUST9192,2024-08-09,North,Clothing,Corporate,6,94.0,0.18,462.48,307.18,155.3,Credit Card
+265,CUST8979,2024-07-23,East,Home & Kitchen,Corporate,6,440.33,0.13,2298.52,1463.92,834.6,Debit Card
+266,CUST1662,2024-01-09,North,Home & Kitchen,Consumer,10,313.35,0.23,2412.8,1278.94,1133.86,UPI
+267,CUST6782,2024-12-31,South,Beauty,Consumer,5,434.13,0.24,1649.69,1070.11,579.58,Debit Card
+268,CUST9173,2024-05-04,East,Home & Kitchen,Home Office,5,196.95,0.05,935.51,632.75,302.76,Net Banking
+269,CUST1929,2024-09-13,West,Electronics,Consumer,10,105.28,0.04,1010.69,692.0,318.69,UPI
+270,CUST3308,2024-08-29,East,Home & Kitchen,Home Office,10,403.13,0.15,3426.61,2597.4,829.21,Debit Card
+271,CUST9668,2024-02-16,South,Clothing,Home Office,10,264.17,0.23,2034.11,1463.42,570.69,Cash on Delivery
+272,CUST1127,2024-06-21,South,Sports,Home Office,5,175.74,0.17,729.32,434.54,294.78,Net Banking
+273,CUST1755,2024-10-22,North,Clothing,Corporate,6,41.22,0.15,210.22,132.31,77.91,Credit Card
+274,CUST4723,2024-01-06,East,Beauty,Consumer,8,67.56,0.21,426.98,320.03,106.95,Debit Card
+275,CUST7523,2024-06-28,West,Electronics,Corporate,7,355.8,0.07,2316.26,1493.32,822.94,UPI
+276,CUST1566,2024-04-14,East,Beauty,Home Office,6,433.99,0.03,2525.82,1736.44,789.38,Credit Card
+277,CUST5878,2024-12-29,West,Sports,Consumer,2,35.78,0.28,51.52,30.13,21.39,Debit Card
+278,CUST1055,2024-07-11,East,Sports,Consumer,3,40.32,0.28,87.09,52.99,34.1,Debit Card
+279,CUST8188,2024-11-23,North,Beauty,Consumer,2,166.83,0.09,303.63,153.0,150.63,UPI
+280,CUST5855,2024-06-22,West,Home & Kitchen,Consumer,8,422.5,0.25,2535.0,1878.01,656.99,Net Banking
+281,CUST7665,2024-06-26,South,Home & Kitchen,Corporate,3,323.07,0.21,765.68,454.63,311.05,Credit Card
+282,CUST8252,2024-03-04,South,Clothing,Consumer,5,432.96,0.12,1905.02,1478.02,427.0,Credit Card
+283,CUST9777,2024-09-16,North,Sports,Consumer,1,155.89,0.1,140.3,80.4,59.9,Credit Card
+284,CUST4168,2024-08-14,South,Electronics,Consumer,7,221.93,0.14,1336.02,703.59,632.43,Debit Card
+285,CUST8315,2024-10-02,East,Sports,Consumer,6,182.72,0.24,833.2,592.34,240.86,UPI
+286,CUST1097,2024-09-21,East,Home & Kitchen,Consumer,4,268.79,0.01,1064.41,816.03,248.38,Cash on Delivery
+287,CUST2649,2024-06-13,North,Electronics,Consumer,1,272.77,0.2,218.22,152.27,65.95,UPI
+288,CUST6895,2024-04-27,West,Clothing,Corporate,8,363.05,0.16,2439.7,1308.49,1131.21,Net Banking
+289,CUST4916,2024-01-02,North,Home & Kitchen,Home Office,9,126.29,0.14,977.48,706.4,271.08,Cash on Delivery
+290,CUST2744,2024-07-04,North,Beauty,Consumer,3,243.36,0.27,532.96,277.13,255.83,Debit Card
+291,CUST1505,2024-02-21,West,Clothing,Corporate,2,180.39,0.08,331.92,170.93,160.99,Cash on Delivery
+292,CUST2166,2024-11-05,North,Beauty,Corporate,5,116.58,0.06,547.93,406.37,141.56,Debit Card
+293,CUST3083,2024-07-20,West,Beauty,Home Office,10,32.14,0.09,292.47,214.41,78.06,Cash on Delivery
+294,CUST4198,2024-04-24,East,Beauty,Home Office,9,440.75,0.03,3847.75,3003.46,844.29,Debit Card
+295,CUST1218,2024-06-04,West,Electronics,Corporate,1,289.32,0.08,266.17,207.43,58.74,Credit Card
+296,CUST7528,2024-10-02,North,Electronics,Home Office,10,28.08,0.17,233.06,153.37,79.69,Cash on Delivery
+297,CUST3405,2024-06-14,North,Home & Kitchen,Home Office,4,266.79,0.2,853.73,573.81,279.92,Net Banking
+298,CUST7013,2024-06-11,South,Beauty,Home Office,5,139.38,0.03,675.99,457.84,218.15,UPI
+299,CUST4038,2024-09-08,North,Electronics,Home Office,2,397.07,0.0,794.14,411.08,383.06,Cash on Delivery
+300,CUST5574,2024-02-25,East,Beauty,Corporate,8,373.9,0.13,2602.34,1309.19,1293.15,UPI
+301,CUST1328,2024-01-16,North,Sports,Home Office,5,452.82,0.11,2015.05,1122.96,892.09,Credit Card
+302,CUST1627,2024-10-14,West,Home & Kitchen,Corporate,9,497.08,0.24,3400.03,1911.72,1488.31,Debit Card
+303,CUST3460,2024-12-04,East,Beauty,Corporate,1,322.9,0.12,284.15,178.94,105.21,Net Banking
+304,CUST4505,2024-03-04,North,Beauty,Corporate,6,151.04,0.13,788.43,407.84,380.59,Credit Card
+305,CUST7254,2024-07-16,South,Sports,Home Office,2,419.67,0.07,780.59,571.74,208.85,UPI
+306,CUST2807,2024-02-25,South,Home & Kitchen,Corporate,5,101.3,0.08,465.98,306.17,159.81,UPI
+307,CUST3021,2024-11-30,North,Beauty,Corporate,9,308.69,0.24,2111.44,1156.41,955.03,Net Banking
+308,CUST1017,2024-01-14,North,Sports,Consumer,1,130.26,0.14,112.02,70.33,41.69,UPI
+309,CUST2139,2024-01-05,West,Beauty,Corporate,7,151.87,0.28,765.42,571.2,194.22,Credit Card
+310,CUST3706,2024-11-22,South,Home & Kitchen,Consumer,7,91.2,0.22,497.95,298.13,199.82,UPI
+311,CUST9328,2024-09-26,North,Clothing,Consumer,1,105.1,0.28,75.67,42.74,32.93,Net Banking
+312,CUST3314,2024-03-08,South,Home & Kitchen,Home Office,3,458.82,0.27,1004.82,529.84,474.98,Net Banking
+313,CUST5109,2024-10-11,North,Home & Kitchen,Consumer,1,82.73,0.23,63.7,34.25,29.45,UPI
+314,CUST4776,2024-05-27,West,Beauty,Home Office,7,379.69,0.18,2179.42,1743.52,435.9,Net Banking
+315,CUST5312,2024-08-29,East,Electronics,Home Office,10,440.08,0.1,3960.72,2782.28,1178.44,UPI
+316,CUST7798,2024-09-05,North,Beauty,Home Office,10,381.42,0.18,3127.64,2170.22,957.42,UPI
+317,CUST3537,2024-02-26,North,Clothing,Consumer,1,308.2,0.11,274.3,203.63,70.67,Debit Card
+318,CUST7985,2024-10-26,South,Beauty,Consumer,6,405.82,0.29,1728.79,902.54,826.25,Net Banking
+319,CUST1311,2024-10-22,North,Beauty,Home Office,1,45.99,0.29,32.65,20.75,11.9,Debit Card
+320,CUST9802,2024-02-23,South,Clothing,Consumer,5,219.77,0.19,890.07,468.3,421.77,Cash on Delivery
+321,CUST9405,2024-12-06,East,Sports,Corporate,3,489.63,0.28,1057.6,686.27,371.33,Cash on Delivery
+322,CUST7801,2024-06-23,North,Clothing,Home Office,9,323.14,0.24,2210.28,1725.91,484.37,Debit Card
+323,CUST1883,2024-09-23,West,Home & Kitchen,Consumer,6,185.52,0.17,923.89,651.18,272.71,Cash on Delivery
+324,CUST2689,2024-06-18,West,Sports,Corporate,4,162.86,0.15,553.72,438.27,115.45,UPI
+325,CUST7486,2024-09-30,South,Home & Kitchen,Home Office,10,464.95,0.1,4184.55,3108.2,1076.35,Cash on Delivery
+326,CUST1994,2024-07-07,East,Home & Kitchen,Corporate,7,252.74,0.07,1645.34,859.94,785.4,Cash on Delivery
+327,CUST5156,2024-06-04,West,Electronics,Home Office,4,139.59,0.0,558.36,410.74,147.62,Debit Card
+328,CUST5241,2024-11-18,North,Sports,Home Office,1,64.74,0.12,56.97,39.05,17.92,Cash on Delivery
+329,CUST2429,2024-03-30,East,Clothing,Corporate,4,295.63,0.11,1052.44,824.01,228.43,Net Banking
+330,CUST2547,2024-06-23,South,Electronics,Consumer,2,58.42,0.1,105.16,72.74,32.42,Debit Card
+331,CUST8025,2024-03-31,East,Home & Kitchen,Consumer,6,486.54,0.16,2452.16,1855.47,596.69,Net Banking
+332,CUST6780,2024-01-02,West,Sports,Corporate,10,175.98,0.13,1531.03,1106.31,424.72,Debit Card
+333,CUST1032,2024-07-31,South,Sports,Home Office,10,455.86,0.15,3874.81,2819.92,1054.89,Cash on Delivery
+334,CUST2933,2024-04-14,North,Beauty,Corporate,1,251.19,0.25,188.39,99.43,88.96,Debit Card
+335,CUST9278,2024-05-30,North,Clothing,Home Office,4,319.85,0.14,1100.28,657.62,442.66,Debit Card
+336,CUST4421,2024-04-24,South,Electronics,Consumer,10,308.54,0.27,2252.34,1586.29,666.05,Credit Card
+337,CUST1939,2024-09-27,North,Sports,Corporate,3,456.25,0.05,1300.31,924.79,375.52,Net Banking
+338,CUST1202,2024-10-24,East,Home & Kitchen,Corporate,2,88.32,0.14,151.91,99.86,52.05,Net Banking
+339,CUST2430,2024-02-29,West,Home & Kitchen,Home Office,7,145.61,0.22,795.03,438.62,356.41,Cash on Delivery
+340,CUST9214,2024-10-18,West,Sports,Corporate,8,283.82,0.12,1998.09,1362.3,635.79,Debit Card
+341,CUST6624,2024-10-08,East,Electronics,Corporate,5,16.96,0.15,72.08,43.88,28.2,Net Banking
+342,CUST7535,2024-07-23,North,Clothing,Home Office,5,488.84,0.2,1955.36,1522.62,432.74,Cash on Delivery
+343,CUST1606,2024-04-27,East,Clothing,Consumer,4,23.61,0.21,74.61,38.76,35.85,Debit Card
+344,CUST6060,2024-11-30,West,Electronics,Corporate,10,405.57,0.28,2920.1,1646.64,1273.46,Credit Card
+345,CUST3314,2024-11-19,East,Home & Kitchen,Home Office,1,130.73,0.01,129.42,85.87,43.55,Credit Card
+346,CUST9432,2024-02-13,East,Electronics,Home Office,9,435.08,0.29,2780.16,1579.71,1200.45,Debit Card
+347,CUST6065,2024-04-22,South,Clothing,Corporate,5,408.83,0.07,1901.06,954.44,946.62,Net Banking
+348,CUST6365,2024-01-19,East,Clothing,Corporate,7,492.71,0.29,2448.77,1324.6,1124.17,Credit Card
+349,CUST3215,2024-04-02,North,Sports,Home Office,7,302.49,0.01,2096.26,1472.76,623.5,UPI
+350,CUST7354,2024-07-19,North,Sports,Consumer,7,414.3,0.15,2465.09,1817.82,647.27,UPI
+351,CUST6739,2024-10-14,West,Clothing,Corporate,3,94.12,0.04,271.07,195.69,75.38,Cash on Delivery
+352,CUST7615,2024-07-31,North,Clothing,Corporate,2,155.91,0.24,236.98,177.04,59.94,Cash on Delivery
+353,CUST1487,2024-08-25,East,Sports,Corporate,1,167.45,0.24,127.26,77.15,50.11,Cash on Delivery
+354,CUST4424,2024-04-16,West,Home & Kitchen,Consumer,3,375.54,0.16,946.36,673.75,272.61,Debit Card
+355,CUST3038,2024-04-17,North,Clothing,Home Office,2,209.46,0.06,393.78,304.43,89.35,Cash on Delivery
+356,CUST2205,2024-01-13,South,Electronics,Home Office,1,101.71,0.13,88.49,62.59,25.9,Credit Card
+357,CUST1038,2024-10-23,North,Beauty,Home Office,10,423.28,0.27,3089.94,1962.96,1126.98,Cash on Delivery
+358,CUST1447,2024-05-22,East,Home & Kitchen,Consumer,5,438.8,0.18,1799.08,1348.23,450.85,Credit Card
+359,CUST2167,2024-03-04,North,Sports,Consumer,6,135.77,0.23,627.26,333.76,293.5,UPI
+360,CUST6665,2024-05-20,South,Beauty,Corporate,1,492.5,0.19,398.93,240.1,158.83,Cash on Delivery
+361,CUST5976,2024-07-07,South,Sports,Home Office,4,179.44,0.17,595.74,475.49,120.25,Debit Card
+362,CUST2996,2024-07-29,West,Home & Kitchen,Corporate,2,343.92,0.17,570.91,423.8,147.11,Net Banking
+363,CUST2388,2024-07-16,West,Electronics,Corporate,9,172.52,0.16,1304.25,856.41,447.84,Cash on Delivery
+364,CUST8837,2024-11-13,South,Sports,Consumer,7,83.67,0.13,509.55,323.38,186.17,Net Banking
+365,CUST8015,2024-03-23,West,Clothing,Consumer,1,217.67,0.27,158.9,101.31,57.59,Net Banking
+366,CUST8201,2024-10-30,North,Home & Kitchen,Corporate,8,17.3,0.2,110.72,67.83,42.89,Debit Card
+367,CUST9876,2024-04-27,East,Clothing,Home Office,10,432.89,0.25,3246.67,2176.2,1070.47,Cash on Delivery
+368,CUST6960,2024-08-13,South,Sports,Home Office,10,136.54,0.28,983.09,534.9,448.19,UPI
+369,CUST6455,2024-11-08,South,Clothing,Corporate,1,496.15,0.12,436.61,346.53,90.08,Credit Card
+370,CUST9401,2024-07-08,West,Sports,Corporate,1,485.49,0.12,427.23,241.16,186.07,UPI
+371,CUST7899,2024-06-21,East,Sports,Consumer,1,295.54,0.16,248.25,177.65,70.6,Cash on Delivery
+372,CUST2627,2024-05-27,South,Clothing,Consumer,1,31.57,0.03,30.62,24.06,6.56,Credit Card
+373,CUST2874,2024-12-11,West,Electronics,Consumer,3,310.66,0.07,866.74,537.67,329.07,Net Banking
+374,CUST6913,2024-03-11,West,Sports,Corporate,4,78.27,0.21,247.33,171.35,75.98,UPI
+375,CUST6841,2024-10-20,South,Home & Kitchen,Home Office,7,477.26,0.05,3173.78,2064.61,1109.17,Credit Card
+376,CUST2894,2024-03-31,West,Sports,Consumer,6,499.86,0.19,2429.32,1718.51,710.81,Cash on Delivery
+377,CUST7466,2024-09-22,West,Electronics,Consumer,8,300.48,0.13,2091.34,1105.35,985.99,Credit Card
+378,CUST3469,2024-06-15,South,Clothing,Consumer,10,474.1,0.1,4266.9,3188.15,1078.75,Credit Card
+379,CUST6295,2024-01-31,East,Clothing,Consumer,2,32.28,0.18,52.94,33.62,19.32,Debit Card
+380,CUST3508,2024-12-21,South,Electronics,Consumer,4,231.58,0.05,880.0,699.34,180.66,Credit Card
+381,CUST5149,2024-10-08,North,Electronics,Consumer,5,184.79,0.29,656.0,333.49,322.51,Cash on Delivery
+382,CUST7584,2024-08-18,East,Sports,Corporate,7,426.43,0.28,2149.21,1339.36,809.85,Cash on Delivery
+383,CUST6241,2024-08-24,North,Beauty,Home Office,8,277.59,0.04,2131.89,1704.04,427.85,Net Banking
+384,CUST9648,2024-10-29,West,Electronics,Corporate,7,41.62,0.07,270.95,198.87,72.08,Cash on Delivery
+385,CUST5272,2024-03-17,West,Beauty,Home Office,5,278.83,0.1,1254.73,766.56,488.17,UPI
+386,CUST9779,2024-10-30,West,Clothing,Home Office,6,127.37,0.07,710.72,375.11,335.61,Net Banking
+387,CUST5631,2024-09-13,East,Sports,Consumer,6,485.63,0.26,2156.2,1579.82,576.38,Credit Card
+388,CUST8040,2024-08-09,East,Sports,Consumer,3,308.81,0.04,889.37,449.24,440.13,Credit Card
+389,CUST8682,2024-06-26,East,Beauty,Consumer,7,473.95,0.26,2455.06,1260.47,1194.59,Credit Card
+390,CUST8685,2024-04-03,North,Electronics,Home Office,8,174.23,0.2,1115.07,659.56,455.51,Debit Card
+391,CUST9400,2024-03-06,West,Clothing,Corporate,5,48.27,0.04,231.7,161.78,69.92,Debit Card
+392,CUST6768,2024-09-29,West,Beauty,Corporate,7,132.86,0.02,911.42,638.62,272.8,UPI
+393,CUST2042,2024-12-11,South,Clothing,Consumer,1,492.65,0.09,448.31,334.41,113.9,Cash on Delivery
+394,CUST6434,2024-06-23,East,Beauty,Home Office,4,324.06,0.12,1140.69,600.15,540.54,Cash on Delivery
+395,CUST9971,2024-10-10,South,Beauty,Consumer,6,138.39,0.09,755.61,445.6,310.01,UPI
+396,CUST8915,2024-05-12,East,Sports,Consumer,1,432.55,0.13,376.32,264.81,111.51,Cash on Delivery
+397,CUST2642,2024-04-07,West,Home & Kitchen,Home Office,3,62.95,0.24,143.53,110.36,33.17,Net Banking
+398,CUST4157,2024-12-07,East,Home & Kitchen,Corporate,2,69.23,0.06,130.15,84.45,45.7,Net Banking
+399,CUST3696,2024-04-26,North,Sports,Home Office,8,387.43,0.16,2603.53,1638.87,964.66,Credit Card
+400,CUST5581,2024-03-21,West,Home & Kitchen,Corporate,9,111.44,0.1,902.66,608.5,294.16,Credit Card
+401,CUST6351,2024-01-31,North,Home & Kitchen,Corporate,5,422.75,0.12,1860.1,1192.3,667.8,Net Banking
+402,CUST9289,2024-05-27,South,Home & Kitchen,Corporate,3,263.36,0.0,790.08,561.96,228.12,Cash on Delivery
+403,CUST3077,2024-08-02,East,Home & Kitchen,Consumer,10,394.01,0.22,3073.28,2089.78,983.5,UPI
+404,CUST5073,2024-06-10,East,Electronics,Consumer,8,205.43,0.07,1528.4,1081.95,446.45,Cash on Delivery
+405,CUST7130,2024-01-07,West,Home & Kitchen,Consumer,7,149.76,0.02,1027.35,615.48,411.87,Debit Card
+406,CUST5890,2024-08-02,South,Clothing,Consumer,4,163.4,0.19,529.42,344.05,185.37,Cash on Delivery
+407,CUST8459,2024-11-08,West,Electronics,Corporate,6,407.43,0.16,2053.45,1195.2,858.25,UPI
+408,CUST7492,2024-05-29,North,Clothing,Consumer,5,251.97,0.1,1133.87,881.17,252.7,Debit Card
+409,CUST6860,2024-12-16,South,Sports,Corporate,6,20.31,0.28,87.74,61.87,25.87,Debit Card
+410,CUST8945,2024-01-27,West,Home & Kitchen,Corporate,8,376.08,0.0,3008.64,2072.05,936.59,Debit Card
+411,CUST7597,2024-11-16,North,Clothing,Consumer,7,426.28,0.22,2327.49,1857.75,469.74,Debit Card
+412,CUST3122,2024-04-09,North,Home & Kitchen,Consumer,6,175.39,0.05,999.72,579.3,420.42,Credit Card
+413,CUST6469,2024-06-25,South,Electronics,Home Office,9,233.19,0.29,1490.08,760.14,729.94,UPI
+414,CUST2728,2024-08-05,East,Home & Kitchen,Corporate,7,13.69,0.0,95.83,58.02,37.81,Cash on Delivery
+415,CUST6804,2024-04-28,South,Home & Kitchen,Corporate,5,440.93,0.15,1873.95,940.27,933.68,Credit Card
+416,CUST4901,2024-09-17,North,Electronics,Home Office,9,221.07,0.24,1512.12,851.65,660.47,Net Banking
+417,CUST5733,2024-06-11,South,Clothing,Corporate,8,88.4,0.29,502.11,270.4,231.71,Cash on Delivery
+418,CUST4856,2024-09-20,West,Sports,Consumer,5,77.18,0.14,331.87,172.5,159.37,Debit Card
+419,CUST1120,2024-10-12,South,Home & Kitchen,Corporate,2,46.24,0.23,71.21,42.23,28.98,Net Banking
+420,CUST3317,2024-06-07,South,Electronics,Home Office,8,275.39,0.28,1586.25,1261.12,325.13,Net Banking
+421,CUST8558,2024-07-26,East,Beauty,Consumer,8,129.97,0.29,738.23,557.73,180.5,Net Banking
+422,CUST2883,2024-10-07,West,Sports,Home Office,5,158.17,0.05,751.31,446.14,305.17,Debit Card
+423,CUST3135,2024-02-12,East,Home & Kitchen,Consumer,3,78.09,0.14,201.47,115.71,85.76,Credit Card
+424,CUST3983,2024-01-27,East,Electronics,Home Office,10,499.92,0.26,3699.41,2849.79,849.62,Net Banking
+425,CUST3958,2024-11-05,West,Beauty,Home Office,3,247.27,0.2,593.45,415.8,177.65,Credit Card
+426,CUST6776,2024-10-19,North,Sports,Home Office,4,243.2,0.06,914.43,667.18,247.25,Net Banking
+427,CUST1372,2024-10-06,North,Beauty,Home Office,3,256.82,0.21,608.66,318.69,289.97,Credit Card
+428,CUST4099,2024-09-17,South,Beauty,Consumer,8,400.42,0.02,3139.29,2081.43,1057.86,Net Banking
+429,CUST8237,2024-06-16,North,Beauty,Consumer,9,332.73,0.02,2934.68,2047.98,886.7,Cash on Delivery
+430,CUST6457,2024-07-05,North,Sports,Consumer,10,402.86,0.19,3263.17,2218.18,1044.99,UPI
+431,CUST9955,2024-04-12,East,Clothing,Consumer,7,344.34,0.18,1976.51,1506.11,470.4,Cash on Delivery
+432,CUST1174,2024-05-06,South,Clothing,Home Office,10,96.82,0.07,900.43,632.12,268.31,Debit Card
+433,CUST6282,2024-05-24,North,Home & Kitchen,Home Office,7,266.1,0.2,1490.16,1004.17,485.99,Cash on Delivery
+434,CUST3043,2024-09-27,East,Clothing,Home Office,10,155.91,0.27,1138.14,675.18,462.96,UPI
+435,CUST8174,2024-07-18,East,Beauty,Corporate,3,304.32,0.19,739.5,549.3,190.2,Cash on Delivery
+436,CUST8354,2024-01-04,West,Electronics,Home Office,5,85.69,0.12,377.04,268.79,108.25,Credit Card
+437,CUST5137,2024-12-20,North,Home & Kitchen,Home Office,8,425.11,0.27,2482.64,1589.28,893.36,UPI
+438,CUST4578,2024-02-17,South,Home & Kitchen,Corporate,5,372.34,0.21,1470.74,770.6,700.14,Credit Card
+439,CUST5040,2024-05-03,South,Beauty,Corporate,3,488.17,0.25,1098.38,578.53,519.85,Credit Card
+440,CUST5471,2024-11-01,North,Beauty,Corporate,7,450.71,0.29,2240.03,1401.26,838.77,Net Banking
+441,CUST2033,2024-09-16,South,Clothing,Corporate,6,349.74,0.13,1825.64,1328.99,496.65,Cash on Delivery
+442,CUST6370,2024-03-02,West,Home & Kitchen,Consumer,2,326.55,0.09,594.32,380.1,214.22,Debit Card
+443,CUST2253,2024-06-15,East,Clothing,Corporate,5,77.97,0.18,319.68,247.65,72.03,Credit Card
+444,CUST2646,2024-03-13,East,Beauty,Home Office,4,13.22,0.19,42.83,28.24,14.59,Cash on Delivery
+445,CUST3438,2024-12-10,East,Sports,Corporate,9,167.47,0.08,1386.65,984.58,402.07,UPI
+446,CUST8951,2024-01-22,North,Sports,Home Office,7,420.54,0.17,2443.34,1515.46,927.88,Net Banking
+447,CUST8547,2024-05-29,West,Home & Kitchen,Home Office,3,421.34,0.13,1099.7,705.51,394.19,Cash on Delivery
+448,CUST4712,2024-02-02,West,Home & Kitchen,Consumer,2,461.59,0.28,664.69,468.51,196.18,UPI
+449,CUST7538,2024-06-30,North,Home & Kitchen,Consumer,8,354.32,0.28,2040.88,1600.39,440.49,Debit Card
+450,CUST2416,2024-04-13,South,Beauty,Corporate,7,344.54,0.04,2315.31,1267.98,1047.33,Cash on Delivery
+451,CUST6557,2024-04-26,West,Beauty,Consumer,6,158.57,0.08,875.31,678.63,196.68,Cash on Delivery
+452,CUST9202,2024-09-21,South,Home & Kitchen,Corporate,1,21.86,0.23,16.83,10.24,6.59,UPI
+453,CUST4506,2024-03-29,North,Sports,Consumer,1,429.21,0.01,424.92,289.76,135.16,Cash on Delivery
+454,CUST9470,2024-05-19,South,Clothing,Consumer,9,294.11,0.25,1985.24,1476.37,508.87,Debit Card
+455,CUST9972,2024-04-20,West,Electronics,Home Office,6,30.3,0.27,132.71,81.99,50.72,Debit Card
+456,CUST1186,2024-05-11,South,Home & Kitchen,Consumer,5,256.49,0.28,923.36,543.05,380.31,Debit Card
+457,CUST5502,2024-03-15,East,Clothing,Consumer,9,145.7,0.06,1232.62,865.0,367.62,Credit Card
+458,CUST9044,2024-04-22,South,Home & Kitchen,Home Office,1,234.96,0.06,220.86,130.53,90.33,UPI
+459,CUST9677,2024-04-08,East,Electronics,Consumer,6,22.93,0.13,119.69,92.55,27.14,Credit Card
+460,CUST5521,2024-04-15,West,Beauty,Home Office,7,471.2,0.03,3199.45,1999.77,1199.68,UPI
+461,CUST9549,2024-06-08,North,Beauty,Consumer,8,226.72,0.13,1577.97,1190.32,387.65,Credit Card
+462,CUST4915,2024-04-04,North,Sports,Home Office,9,437.34,0.15,3345.65,2074.51,1271.14,Cash on Delivery
+463,CUST6020,2024-03-31,East,Home & Kitchen,Corporate,9,203.39,0.25,1372.88,944.76,428.12,Net Banking
+464,CUST8914,2024-05-27,West,Beauty,Consumer,9,231.66,0.23,1605.4,843.59,761.81,Credit Card
+465,CUST6808,2024-05-26,West,Electronics,Home Office,2,459.07,0.28,661.06,446.02,215.04,Cash on Delivery
+466,CUST8265,2024-05-19,North,Clothing,Corporate,9,178.71,0.15,1367.13,824.08,543.05,Net Banking
+467,CUST3893,2024-12-14,East,Clothing,Consumer,10,108.62,0.05,1031.89,790.68,241.21,Debit Card
+468,CUST6202,2024-08-16,East,Clothing,Home Office,2,348.15,0.19,564.0,447.6,116.4,Cash on Delivery
+469,CUST5690,2024-03-05,East,Clothing,Consumer,3,496.1,0.29,1056.69,759.11,297.58,Credit Card
+470,CUST7390,2024-07-28,North,Beauty,Corporate,1,33.76,0.03,32.75,20.04,12.71,UPI
+471,CUST2270,2024-11-04,North,Sports,Home Office,5,20.22,0.16,84.92,46.09,38.83,Credit Card
+472,CUST7035,2024-02-05,East,Home & Kitchen,Home Office,8,210.91,0.07,1569.17,942.92,626.25,Cash on Delivery
+473,CUST9990,2024-02-11,North,Sports,Home Office,6,466.79,0.02,2744.73,1467.9,1276.83,Cash on Delivery
+474,CUST8675,2024-01-10,South,Home & Kitchen,Consumer,9,405.58,0.27,2664.66,1672.75,991.91,UPI
+475,CUST3797,2024-08-25,South,Beauty,Home Office,10,234.55,0.05,2228.22,1382.3,845.92,Credit Card
+476,CUST9922,2024-05-24,East,Electronics,Consumer,1,391.31,0.2,313.05,197.77,115.28,UPI
+477,CUST7727,2024-11-09,North,Sports,Corporate,10,343.43,0.25,2575.73,1672.68,903.05,Debit Card
+478,CUST3490,2024-10-22,North,Electronics,Corporate,4,100.51,0.26,297.51,228.97,68.54,UPI
+479,CUST7489,2024-05-20,West,Home & Kitchen,Consumer,4,100.99,0.11,359.52,237.28,122.24,Net Banking
+480,CUST7325,2024-09-23,North,Beauty,Consumer,7,493.96,0.25,2593.29,1724.47,868.82,Debit Card
+481,CUST5918,2024-07-13,West,Home & Kitchen,Home Office,3,183.93,0.07,513.16,303.31,209.85,UPI
+482,CUST1459,2024-09-30,South,Beauty,Corporate,7,113.67,0.22,620.64,405.36,215.28,UPI
+483,CUST8874,2024-09-26,South,Sports,Home Office,7,461.5,0.25,2422.88,1376.61,1046.27,Debit Card
+484,CUST5869,2024-05-28,East,Home & Kitchen,Corporate,3,35.53,0.17,88.47,59.37,29.1,UPI
+485,CUST4536,2024-07-01,North,Sports,Home Office,1,181.09,0.0,181.09,132.87,48.22,Cash on Delivery
+486,CUST2655,2024-08-10,West,Home & Kitchen,Corporate,7,214.82,0.28,1082.69,626.84,455.85,Debit Card
+487,CUST4507,2024-05-07,West,Beauty,Home Office,1,220.53,0.05,209.5,141.77,67.73,Net Banking
+488,CUST5792,2024-08-22,North,Sports,Corporate,4,98.52,0.2,315.26,233.2,82.06,Credit Card
+489,CUST2525,2024-12-19,South,Beauty,Home Office,6,255.27,0.28,1102.77,554.35,548.42,Cash on Delivery
+490,CUST8610,2024-10-31,East,Sports,Consumer,10,406.79,0.06,3823.83,2214.43,1609.4,UPI
+491,CUST5329,2024-05-02,East,Clothing,Home Office,10,329.53,0.09,2998.72,1796.47,1202.25,Credit Card
+492,CUST7553,2024-11-30,South,Electronics,Home Office,4,470.87,0.24,1431.44,963.42,468.02,UPI
+493,CUST6006,2024-01-21,South,Beauty,Corporate,7,161.63,0.26,837.24,591.26,245.98,Credit Card
+494,CUST2872,2024-10-20,North,Clothing,Home Office,3,121.29,0.09,331.12,235.14,95.98,Cash on Delivery
+495,CUST4670,2024-12-23,North,Beauty,Home Office,8,87.1,0.3,487.76,318.89,168.87,UPI
+496,CUST8971,2024-01-22,North,Electronics,Home Office,5,486.92,0.3,1704.22,1191.16,513.06,UPI
+497,CUST5901,2024-12-22,East,Sports,Corporate,1,196.68,0.14,169.14,111.95,57.19,Debit Card
+498,CUST3035,2024-09-24,South,Beauty,Consumer,6,106.15,0.06,598.69,320.91,277.78,UPI
+499,CUST5177,2024-03-02,North,Home & Kitchen,Home Office,1,109.17,0.14,93.89,58.31,35.58,Debit Card
+500,CUST2352,2024-11-11,South,Sports,Corporate,2,298.51,0.3,417.91,272.84,145.07,Cash on Delivery
+501,CUST9242,2024-08-13,East,Beauty,Consumer,8,269.89,0.29,1532.98,780.34,752.64,Cash on Delivery
+502,CUST1898,2024-07-26,West,Clothing,Home Office,1,481.1,0.28,346.39,250.14,96.25,UPI
+503,CUST3859,2024-10-06,North,Electronics,Home Office,4,397.57,0.19,1288.13,795.77,492.36,Credit Card
+504,CUST3123,2024-02-14,North,Beauty,Consumer,7,220.23,0.05,1464.53,778.19,686.34,Credit Card
+505,CUST3568,2024-05-03,North,Home & Kitchen,Home Office,1,492.28,0.05,467.67,334.83,132.84,UPI
+506,CUST5256,2024-08-09,East,Clothing,Corporate,7,187.68,0.21,1037.87,691.01,346.86,Cash on Delivery
+507,CUST5870,2024-09-05,North,Electronics,Home Office,6,392.52,0.28,1695.69,904.58,791.11,UPI
+508,CUST1605,2024-08-07,West,Clothing,Corporate,6,307.17,0.29,1308.54,748.53,560.01,UPI
+509,CUST9570,2024-04-11,East,Home & Kitchen,Home Office,8,56.98,0.11,405.7,233.25,172.45,UPI
+510,CUST6678,2024-10-23,North,Home & Kitchen,Corporate,3,218.6,0.02,642.68,368.27,274.41,Net Banking
+511,CUST7431,2024-10-26,West,Electronics,Home Office,2,200.37,0.16,336.62,230.22,106.4,Debit Card
+512,CUST6465,2024-10-07,North,Sports,Corporate,8,300.46,0.13,2091.2,1554.74,536.46,Credit Card
+513,CUST8612,2024-07-07,East,Beauty,Home Office,8,15.27,0.22,95.28,75.82,19.46,Net Banking
+514,CUST3291,2024-11-29,North,Beauty,Consumer,9,24.92,0.2,179.42,141.56,37.86,Cash on Delivery
+515,CUST8558,2024-02-01,East,Home & Kitchen,Corporate,2,100.91,0.22,157.42,93.14,64.28,Cash on Delivery
+516,CUST6772,2024-03-01,West,Home & Kitchen,Home Office,3,369.38,0.24,842.19,625.68,216.51,Net Banking
+517,CUST3400,2024-12-13,East,Sports,Corporate,1,218.42,0.06,205.31,133.92,71.39,Credit Card
+518,CUST6064,2024-05-22,South,Electronics,Consumer,4,136.62,0.1,491.83,389.27,102.56,Credit Card
+519,CUST8394,2024-04-16,West,Beauty,Home Office,1,95.01,0.11,84.56,64.7,19.86,Debit Card
+520,CUST7058,2024-03-27,North,Beauty,Home Office,3,168.58,0.21,399.53,307.41,92.12,Cash on Delivery
+521,CUST2842,2024-04-09,South,Sports,Home Office,2,386.13,0.14,664.14,374.36,289.78,Net Banking
+522,CUST6900,2024-02-14,West,Sports,Consumer,4,118.98,0.07,442.61,333.37,109.24,Net Banking
+523,CUST4353,2024-05-09,East,Clothing,Home Office,1,129.25,0.09,117.62,85.59,32.03,Net Banking
+524,CUST3090,2024-08-07,North,Electronics,Consumer,2,185.7,0.18,304.55,201.04,103.51,UPI
+525,CUST9706,2024-10-06,South,Electronics,Home Office,7,217.9,0.04,1464.29,1160.4,303.89,Cash on Delivery
+526,CUST9891,2024-03-15,North,Electronics,Home Office,1,70.65,0.11,62.88,46.48,16.4,UPI
+527,CUST1563,2024-02-29,East,Beauty,Corporate,6,186.62,0.13,974.16,675.14,299.02,UPI
+528,CUST6392,2024-05-31,West,Sports,Corporate,6,63.89,0.3,268.34,155.14,113.2,Net Banking
+529,CUST1869,2024-09-01,East,Sports,Consumer,8,77.75,0.18,510.04,303.94,206.1,Debit Card
+530,CUST7995,2024-05-25,East,Sports,Corporate,1,449.13,0.17,372.78,203.31,169.47,UPI
+531,CUST8544,2024-02-01,South,Home & Kitchen,Corporate,10,191.13,0.03,1853.96,998.42,855.54,Credit Card
+532,CUST1815,2024-06-10,East,Beauty,Home Office,4,87.37,0.21,276.09,186.07,90.02,Cash on Delivery
+533,CUST3872,2024-03-27,South,Beauty,Home Office,4,423.54,0.1,1524.74,885.66,639.08,Cash on Delivery
+534,CUST3158,2024-06-11,West,Beauty,Home Office,5,256.67,0.25,962.51,743.87,218.64,Cash on Delivery
+535,CUST2231,2024-06-07,North,Clothing,Consumer,7,46.64,0.24,248.12,176.0,72.12,Debit Card
+536,CUST8588,2024-04-27,East,Electronics,Corporate,4,284.97,0.12,1003.09,621.51,381.58,Debit Card
+537,CUST9402,2024-11-20,North,Beauty,Corporate,10,462.58,0.04,4440.77,3467.85,972.92,Credit Card
+538,CUST5507,2024-03-04,South,Clothing,Corporate,8,441.7,0.3,2473.52,1272.07,1201.45,Cash on Delivery
+539,CUST7479,2024-06-06,South,Sports,Consumer,8,230.01,0.21,1453.66,943.99,509.67,Net Banking
+540,CUST7297,2024-05-29,South,Beauty,Corporate,1,416.45,0.11,370.64,212.39,158.25,Cash on Delivery
+541,CUST1901,2024-10-14,North,Sports,Consumer,7,427.33,0.21,2363.13,1722.11,641.02,Net Banking
+542,CUST9225,2024-03-27,East,Home & Kitchen,Home Office,5,22.52,0.27,82.2,65.74,16.46,UPI
+543,CUST2359,2024-12-16,North,Beauty,Corporate,3,67.01,0.04,192.99,130.69,62.3,Debit Card
+544,CUST8261,2024-06-22,West,Home & Kitchen,Home Office,4,229.38,0.18,752.37,426.2,326.17,Cash on Delivery
+545,CUST1166,2024-11-11,South,Clothing,Home Office,1,370.68,0.19,300.25,234.7,65.55,Cash on Delivery
+546,CUST2157,2024-03-16,South,Beauty,Consumer,7,287.59,0.24,1529.98,849.59,680.39,Credit Card
+547,CUST5417,2024-06-10,West,Clothing,Consumer,10,119.67,0.2,957.36,667.97,289.39,Net Banking
+548,CUST2441,2024-01-06,West,Sports,Corporate,6,237.9,0.09,1298.93,1028.8,270.13,Debit Card
+549,CUST2029,2024-12-08,North,Home & Kitchen,Corporate,7,415.44,0.1,2617.27,1858.85,758.42,Credit Card
+550,CUST5323,2024-12-03,East,Electronics,Consumer,4,460.47,0.27,1344.57,749.92,594.65,Net Banking
+551,CUST4124,2024-02-15,North,Beauty,Corporate,8,223.41,0.0,1787.28,1392.99,394.29,Cash on Delivery
+552,CUST3557,2024-07-21,North,Electronics,Home Office,5,191.32,0.15,813.11,491.34,321.77,Cash on Delivery
+553,CUST7716,2024-10-22,East,Electronics,Home Office,7,174.24,0.29,865.97,481.0,384.97,Cash on Delivery
+554,CUST1340,2024-07-13,North,Clothing,Consumer,10,20.13,0.29,142.92,74.42,68.5,Cash on Delivery
+555,CUST6346,2024-08-15,South,Home & Kitchen,Home Office,10,114.36,0.04,1097.86,658.18,439.68,Credit Card
+556,CUST7646,2024-11-07,East,Home & Kitchen,Consumer,5,239.25,0.14,1028.78,679.07,349.71,Debit Card
+557,CUST7852,2024-10-23,West,Clothing,Corporate,7,29.19,0.15,173.68,135.72,37.96,UPI
+558,CUST1116,2024-08-12,North,Beauty,Consumer,1,303.44,0.22,236.68,144.74,91.94,Cash on Delivery
+559,CUST9959,2024-02-11,West,Sports,Home Office,6,145.82,0.01,866.17,492.26,373.91,Debit Card
+560,CUST8596,2024-10-23,West,Home & Kitchen,Home Office,10,70.13,0.01,694.29,351.52,342.77,Credit Card
+561,CUST2277,2024-08-12,West,Beauty,Home Office,4,194.02,0.06,729.52,507.32,222.2,UPI
+562,CUST7612,2024-08-10,South,Sports,Corporate,2,230.29,0.24,350.04,231.77,118.27,Net Banking
+563,CUST4065,2024-09-16,South,Clothing,Home Office,9,411.72,0.11,3297.88,2400.33,897.55,Credit Card
+564,CUST7989,2024-07-21,East,Electronics,Corporate,4,266.65,0.29,757.29,544.21,213.08,Cash on Delivery
+565,CUST9733,2024-09-19,South,Sports,Home Office,10,149.72,0.06,1407.37,934.19,473.18,Credit Card
+566,CUST8685,2024-08-18,West,Home & Kitchen,Consumer,4,38.21,0.24,116.16,81.79,34.37,Cash on Delivery
+567,CUST2638,2024-05-17,West,Sports,Home Office,6,372.74,0.17,1856.25,1051.56,804.69,Cash on Delivery
+568,CUST2605,2024-07-19,West,Clothing,Consumer,10,175.92,0.03,1706.42,999.51,706.91,Credit Card
+569,CUST9682,2024-11-02,East,Sports,Consumer,2,438.44,0.23,675.2,369.17,306.03,UPI
+570,CUST7761,2024-08-29,East,Electronics,Corporate,8,409.71,0.23,2523.81,1669.58,854.23,UPI
+571,CUST7319,2024-09-22,South,Electronics,Home Office,4,293.64,0.03,1139.32,670.46,468.86,Debit Card
+572,CUST6171,2024-04-19,East,Beauty,Home Office,4,72.66,0.24,220.89,129.47,91.42,Credit Card
+573,CUST3686,2024-01-08,South,Beauty,Corporate,1,282.15,0.05,268.04,157.28,110.76,UPI
+574,CUST5432,2024-09-29,North,Electronics,Corporate,3,103.16,0.25,232.11,149.25,82.86,Cash on Delivery
+575,CUST1126,2024-07-29,East,Sports,Home Office,5,340.86,0.23,1312.31,769.06,543.25,UPI
+576,CUST4422,2024-04-14,North,Beauty,Home Office,7,61.81,0.1,389.4,238.69,150.71,Net Banking
+577,CUST9158,2024-03-21,West,Clothing,Home Office,1,493.21,0.07,458.69,349.99,108.7,Cash on Delivery
+578,CUST5980,2024-11-27,North,Clothing,Consumer,6,305.79,0.13,1596.22,1241.01,355.21,Debit Card
+579,CUST5002,2024-12-25,East,Home & Kitchen,Home Office,10,364.08,0.04,3495.17,2549.78,945.39,Net Banking
+580,CUST6164,2024-08-04,South,Beauty,Corporate,8,32.25,0.22,201.24,116.27,84.97,Net Banking
+581,CUST3933,2024-01-16,West,Beauty,Corporate,10,356.11,0.3,2492.77,1922.22,570.55,Cash on Delivery
+582,CUST2647,2024-07-10,North,Sports,Home Office,1,220.32,0.11,196.08,98.97,97.11,Credit Card
+583,CUST6622,2024-02-26,West,Beauty,Home Office,4,354.74,0.26,1050.03,775.08,274.95,Debit Card
+584,CUST9986,2024-06-04,South,Home & Kitchen,Consumer,1,156.91,0.22,122.39,94.1,28.29,UPI
+585,CUST2184,2024-09-10,East,Clothing,Corporate,2,93.92,0.17,155.91,123.51,32.4,UPI
+586,CUST5741,2024-05-03,East,Electronics,Consumer,3,159.15,0.25,358.09,215.4,142.69,Cash on Delivery
+587,CUST6406,2024-04-29,East,Sports,Corporate,6,138.06,0.21,654.4,328.67,325.73,Credit Card
+588,CUST5034,2024-09-01,East,Electronics,Home Office,5,323.75,0.2,1295.0,684.93,610.07,Cash on Delivery
+589,CUST2383,2024-11-25,South,Beauty,Consumer,5,97.41,0.08,448.09,232.12,215.97,Credit Card
+590,CUST9307,2024-03-21,East,Sports,Consumer,5,201.06,0.24,764.03,430.41,333.62,Credit Card
+591,CUST9299,2024-07-16,East,Beauty,Corporate,5,464.64,0.08,2137.34,1427.22,710.12,Cash on Delivery
+592,CUST6734,2024-04-05,North,Beauty,Consumer,1,41.54,0.21,32.82,16.52,16.3,UPI
+593,CUST5447,2024-11-12,West,Clothing,Corporate,8,106.41,0.11,757.64,491.97,265.67,Debit Card
+594,CUST8919,2024-08-05,East,Electronics,Consumer,1,168.92,0.1,152.03,94.35,57.68,Credit Card
+595,CUST3446,2024-11-21,South,Electronics,Home Office,1,49.27,0.23,37.94,27.06,10.88,Credit Card
+596,CUST9775,2024-08-04,South,Home & Kitchen,Consumer,10,110.79,0.21,875.24,600.05,275.19,Credit Card
+597,CUST7029,2024-07-04,South,Sports,Consumer,10,147.86,0.28,1064.59,746.65,317.94,Debit Card
+598,CUST6500,2024-11-02,South,Beauty,Home Office,9,225.54,0.01,2009.56,1070.01,939.55,Debit Card
+599,CUST4720,2024-07-09,East,Sports,Home Office,2,363.21,0.2,581.14,298.67,282.47,Debit Card
+600,CUST1138,2024-03-14,North,Home & Kitchen,Consumer,4,63.22,0.04,242.76,143.56,99.2,Net Banking
+601,CUST5075,2024-07-01,West,Clothing,Corporate,8,353.39,0.21,2233.42,1143.38,1090.04,Debit Card
+602,CUST2798,2024-04-20,West,Sports,Home Office,7,231.1,0.22,1261.81,727.61,534.2,Cash on Delivery
+603,CUST8131,2024-01-15,South,Clothing,Consumer,6,299.44,0.03,1742.74,1313.5,429.24,UPI
+604,CUST1602,2024-07-16,North,Home & Kitchen,Consumer,4,218.59,0.27,638.28,453.73,184.55,Net Banking
+605,CUST6559,2024-06-22,North,Beauty,Home Office,10,440.3,0.1,3962.7,2831.69,1131.01,Credit Card
+606,CUST5639,2024-10-29,West,Sports,Corporate,2,130.08,0.16,218.53,134.97,83.56,UPI
+607,CUST6202,2024-07-29,West,Beauty,Consumer,8,184.39,0.11,1312.86,689.96,622.9,Debit Card
+608,CUST1936,2024-08-03,South,Home & Kitchen,Home Office,3,237.58,0.25,534.56,275.08,259.48,Debit Card
+609,CUST1875,2024-06-03,West,Clothing,Corporate,2,38.39,0.02,75.24,47.34,27.9,Cash on Delivery
+610,CUST2447,2024-02-10,North,Sports,Corporate,1,175.44,0.13,152.63,79.76,72.87,Debit Card
+611,CUST3268,2024-11-07,South,Home & Kitchen,Corporate,4,76.25,0.2,244.0,166.68,77.32,Net Banking
+612,CUST7730,2024-04-30,North,Home & Kitchen,Consumer,7,431.9,0.17,2509.34,1713.18,796.16,Cash on Delivery
+613,CUST5465,2024-08-29,East,Clothing,Home Office,3,125.16,0.04,360.46,207.52,152.94,Debit Card
+614,CUST2728,2024-01-31,West,Clothing,Home Office,3,29.75,0.06,83.89,61.12,22.77,Net Banking
+615,CUST8592,2024-02-04,North,Beauty,Home Office,6,416.21,0.04,2397.37,1756.67,640.7,UPI
+616,CUST9776,2024-06-03,South,Sports,Corporate,1,106.84,0.14,91.88,72.63,19.25,Debit Card
+617,CUST4410,2024-05-11,East,Sports,Corporate,9,29.06,0.02,256.31,155.75,100.56,Net Banking
+618,CUST6899,2024-01-24,East,Electronics,Corporate,3,225.66,0.1,609.28,394.73,214.55,Credit Card
+619,CUST2726,2024-10-27,South,Sports,Consumer,9,432.65,0.22,3037.2,1541.99,1495.21,Debit Card
+620,CUST2465,2024-05-18,West,Home & Kitchen,Corporate,2,53.87,0.09,98.04,65.06,32.98,Debit Card
+621,CUST4208,2024-09-22,West,Beauty,Consumer,6,146.32,0.12,772.57,428.34,344.23,Net Banking
+622,CUST4206,2024-01-08,North,Sports,Corporate,4,86.59,0.06,325.58,166.5,159.08,Cash on Delivery
+623,CUST5408,2024-12-12,North,Sports,Home Office,4,303.57,0.18,995.71,734.24,261.47,Debit Card
+624,CUST8293,2024-12-01,North,Beauty,Home Office,6,190.77,0.17,950.03,633.04,316.99,Cash on Delivery
+625,CUST1843,2024-09-16,West,Clothing,Home Office,10,218.03,0.24,1657.03,1093.97,563.06,Cash on Delivery
+626,CUST6559,2024-09-07,South,Clothing,Home Office,4,309.61,0.09,1126.98,838.01,288.97,Cash on Delivery
+627,CUST2837,2024-01-05,West,Clothing,Consumer,3,444.22,0.14,1146.09,795.25,350.84,Cash on Delivery
+628,CUST1567,2024-08-07,South,Beauty,Consumer,5,174.43,0.29,619.23,478.66,140.57,Cash on Delivery
+629,CUST1398,2024-12-04,East,Clothing,Corporate,8,330.95,0.02,2594.65,1880.99,713.66,Net Banking
+630,CUST1820,2024-05-05,North,Beauty,Corporate,9,144.36,0.3,909.47,617.46,292.01,Net Banking
+631,CUST4950,2024-01-09,South,Beauty,Home Office,5,472.14,0.11,2101.02,1406.71,694.31,Credit Card
+632,CUST2638,2024-06-29,South,Home & Kitchen,Consumer,5,370.01,0.1,1665.05,1052.08,612.97,Net Banking
+633,CUST8217,2024-02-24,West,Clothing,Corporate,9,447.81,0.18,3304.84,2150.48,1154.36,Debit Card
+634,CUST6087,2024-02-13,West,Clothing,Home Office,5,161.19,0.08,741.47,581.67,159.8,Net Banking
+635,CUST9596,2024-09-22,East,Clothing,Home Office,6,350.71,0.0,2104.26,1356.62,747.64,UPI
+636,CUST4273,2024-04-05,South,Clothing,Home Office,8,113.79,0.25,682.74,483.43,199.31,UPI
+637,CUST1486,2024-01-23,South,Sports,Consumer,9,476.9,0.19,3476.6,2095.11,1381.49,Cash on Delivery
+638,CUST1355,2024-05-02,East,Beauty,Consumer,6,132.78,0.27,581.58,371.58,210.0,Cash on Delivery
+639,CUST9004,2024-01-08,West,Sports,Corporate,4,361.04,0.17,1198.65,791.56,407.09,UPI
+640,CUST1910,2024-01-15,North,Beauty,Corporate,8,251.98,0.07,1874.73,975.54,899.19,Cash on Delivery
+641,CUST8822,2024-08-24,West,Sports,Corporate,9,149.2,0.04,1289.09,829.22,459.87,UPI
+642,CUST8726,2024-07-20,East,Electronics,Home Office,3,327.59,0.16,825.53,549.83,275.7,UPI
+643,CUST9544,2024-06-09,South,Beauty,Consumer,2,112.67,0.04,216.33,112.63,103.7,Credit Card
+644,CUST5526,2024-05-16,North,Clothing,Corporate,1,321.57,0.13,279.77,219.13,60.64,Net Banking
+645,CUST8228,2024-08-05,South,Clothing,Home Office,1,10.47,0.18,8.59,5.84,2.75,Cash on Delivery
+646,CUST1513,2024-03-12,West,Clothing,Corporate,5,388.47,0.16,1631.57,1019.79,611.78,UPI
+647,CUST8661,2024-10-22,South,Home & Kitchen,Corporate,7,390.85,0.03,2653.87,1930.46,723.41,Debit Card
+648,CUST3147,2024-07-12,North,Sports,Consumer,2,375.16,0.04,720.31,546.7,173.61,Credit Card
+649,CUST6007,2024-01-04,North,Beauty,Home Office,2,366.42,0.25,549.63,434.34,115.29,UPI
+650,CUST9109,2024-12-05,North,Home & Kitchen,Home Office,9,41.58,0.25,280.66,219.77,60.89,Credit Card
+651,CUST4132,2024-12-25,North,Sports,Corporate,8,62.23,0.3,348.49,209.11,139.38,Debit Card
+652,CUST5906,2024-11-08,West,Beauty,Home Office,5,22.26,0.08,102.4,71.15,31.25,Net Banking
+653,CUST1296,2024-06-06,South,Beauty,Consumer,7,306.41,0.11,1908.93,1088.78,820.15,UPI
+654,CUST8486,2024-09-30,South,Electronics,Home Office,9,176.4,0.21,1254.2,785.36,468.84,UPI
+655,CUST8643,2024-09-16,North,Clothing,Consumer,7,168.94,0.19,957.89,548.21,409.68,Debit Card
+656,CUST2564,2024-04-30,North,Electronics,Home Office,9,307.32,0.23,2129.73,1610.19,519.54,Debit Card
+657,CUST9007,2024-06-17,North,Sports,Consumer,1,73.99,0.05,70.29,51.16,19.13,Net Banking
+658,CUST6625,2024-11-02,South,Clothing,Consumer,6,121.25,0.22,567.45,345.38,222.07,Cash on Delivery
+659,CUST2506,2024-03-28,East,Beauty,Home Office,1,99.91,0.3,69.94,42.64,27.3,Debit Card
+660,CUST9402,2024-01-03,West,Sports,Consumer,9,491.86,0.1,3984.07,2166.99,1817.08,Debit Card
+661,CUST7757,2024-01-14,East,Beauty,Consumer,8,475.58,0.23,2929.57,1959.28,970.29,Cash on Delivery
+662,CUST9742,2024-05-26,North,Electronics,Home Office,1,172.0,0.05,163.4,98.44,64.96,Cash on Delivery
+663,CUST6819,2024-06-24,North,Home & Kitchen,Home Office,2,89.57,0.23,137.94,107.71,30.23,Credit Card
+664,CUST9800,2024-07-09,East,Electronics,Home Office,10,419.43,0.18,3439.33,2611.77,827.56,Net Banking
+665,CUST2386,2024-04-30,West,Electronics,Consumer,5,450.58,0.0,2252.9,1155.83,1097.07,Debit Card
+666,CUST1674,2024-08-14,West,Beauty,Home Office,3,50.76,0.09,138.57,75.82,62.75,Credit Card
+667,CUST2579,2024-12-09,North,Home & Kitchen,Corporate,9,485.12,0.07,4060.45,2359.77,1700.68,UPI
+668,CUST1545,2024-11-05,South,Electronics,Home Office,4,105.64,0.03,409.88,318.9,90.98,Cash on Delivery
+669,CUST4488,2024-11-29,North,Beauty,Home Office,1,104.89,0.26,77.62,52.47,25.15,Debit Card
+670,CUST6942,2024-03-06,South,Beauty,Consumer,1,368.38,0.06,346.28,272.03,74.25,UPI
+671,CUST9658,2024-01-24,West,Clothing,Home Office,5,352.47,0.01,1744.73,1225.98,518.75,UPI
+672,CUST4547,2024-01-24,West,Home & Kitchen,Consumer,3,204.26,0.28,441.2,244.61,196.59,Net Banking
+673,CUST1665,2024-05-16,West,Sports,Consumer,3,261.2,0.28,564.19,420.59,143.6,UPI
+674,CUST5560,2024-09-17,West,Home & Kitchen,Home Office,9,491.53,0.06,4158.34,2098.4,2059.94,Debit Card
+675,CUST4076,2024-01-03,East,Clothing,Corporate,1,370.31,0.21,292.54,230.7,61.84,Net Banking
+676,CUST8939,2024-03-13,South,Electronics,Home Office,4,230.0,0.09,837.2,593.4,243.8,Cash on Delivery
+677,CUST9985,2024-11-01,East,Home & Kitchen,Home Office,7,162.63,0.03,1104.26,572.08,532.18,Credit Card
+678,CUST5090,2024-01-15,East,Electronics,Corporate,7,420.52,0.1,2649.28,1631.02,1018.26,Net Banking
+679,CUST8706,2024-11-17,East,Electronics,Home Office,5,224.03,0.06,1052.94,577.03,475.91,Net Banking
+680,CUST6274,2024-10-25,South,Home & Kitchen,Home Office,6,396.88,0.24,1809.77,1374.91,434.86,Debit Card
+681,CUST9030,2024-08-05,East,Beauty,Corporate,4,338.1,0.2,1081.92,780.85,301.07,Credit Card
+682,CUST5005,2024-04-10,South,Electronics,Home Office,1,412.05,0.27,300.8,181.53,119.27,Debit Card
+683,CUST9368,2024-11-25,North,Clothing,Consumer,4,214.09,0.04,822.11,613.55,208.56,UPI
+684,CUST4543,2024-02-18,North,Electronics,Corporate,2,86.48,0.29,122.8,67.76,55.04,Cash on Delivery
+685,CUST6874,2024-11-07,West,Clothing,Corporate,10,102.69,0.2,821.52,651.32,170.2,Credit Card
+686,CUST2976,2024-03-07,East,Sports,Home Office,10,135.21,0.09,1230.41,714.61,515.8,Credit Card
+687,CUST5901,2024-08-21,South,Electronics,Corporate,2,406.57,0.05,772.48,575.59,196.89,UPI
+688,CUST3641,2024-04-10,West,Beauty,Corporate,9,76.74,0.23,531.81,397.59,134.22,Net Banking
+689,CUST6410,2024-09-03,South,Home & Kitchen,Consumer,9,463.73,0.03,4048.36,3099.46,948.9,Net Banking
+690,CUST8992,2024-09-20,South,Home & Kitchen,Consumer,6,478.05,0.03,2782.25,2193.92,588.33,Debit Card
+691,CUST8095,2024-05-05,North,Electronics,Home Office,8,283.36,0.13,1972.19,1168.36,803.83,UPI
+692,CUST2855,2024-06-10,West,Sports,Consumer,8,424.64,0.09,3091.38,1725.72,1365.66,UPI
+693,CUST7478,2024-02-07,West,Beauty,Home Office,10,304.01,0.16,2553.68,1364.54,1189.14,Debit Card
+694,CUST5700,2024-06-20,East,Beauty,Home Office,6,32.64,0.26,144.92,92.72,52.2,Net Banking
+695,CUST4241,2024-08-13,North,Clothing,Corporate,1,388.31,0.14,333.95,256.77,77.18,Cash on Delivery
+696,CUST2792,2024-12-14,West,Beauty,Corporate,4,44.18,0.02,173.19,113.05,60.14,Debit Card
+697,CUST5220,2024-08-08,East,Sports,Home Office,5,30.13,0.26,111.48,79.89,31.59,Net Banking
+698,CUST3069,2024-03-02,East,Home & Kitchen,Corporate,8,183.74,0.19,1190.64,603.31,587.33,Credit Card
+699,CUST2781,2024-07-16,West,Home & Kitchen,Corporate,7,420.48,0.28,2119.22,1579.59,539.63,Net Banking
+700,CUST7827,2024-07-21,East,Home & Kitchen,Consumer,6,297.53,0.09,1624.51,965.44,659.07,Debit Card
+701,CUST2240,2024-01-23,North,Beauty,Consumer,6,83.46,0.04,480.73,313.3,167.43,UPI
+702,CUST9270,2024-07-14,South,Clothing,Consumer,5,395.41,0.18,1621.18,1213.17,408.01,Debit Card
+703,CUST2894,2024-03-02,East,Beauty,Home Office,8,372.77,0.06,2803.23,2026.26,776.97,Credit Card
+704,CUST6769,2024-05-16,West,Beauty,Corporate,6,382.97,0.27,1677.41,1239.11,438.3,Net Banking
+705,CUST6193,2024-01-12,North,Clothing,Corporate,5,218.52,0.05,1037.97,763.09,274.88,UPI
+706,CUST6643,2024-10-23,West,Sports,Corporate,10,279.55,0.11,2487.99,1342.73,1145.26,Credit Card
+707,CUST3589,2024-07-13,West,Sports,Home Office,2,252.65,0.1,454.77,342.48,112.29,Net Banking
+708,CUST6099,2024-03-02,North,Electronics,Corporate,8,438.7,0.05,3334.12,2355.81,978.31,Credit Card
+709,CUST6910,2024-11-22,North,Clothing,Corporate,9,71.34,0.04,616.38,416.8,199.58,Cash on Delivery
+710,CUST7487,2024-09-11,West,Sports,Consumer,4,314.77,0.3,881.36,583.67,297.69,Credit Card
+711,CUST9290,2024-12-11,East,Home & Kitchen,Home Office,6,86.62,0.11,462.55,256.35,206.2,Net Banking
+712,CUST1252,2024-01-17,East,Home & Kitchen,Consumer,3,128.23,0.29,273.13,166.18,106.95,Debit Card
+713,CUST3504,2024-04-03,North,Clothing,Home Office,9,233.91,0.1,1894.67,1184.58,710.09,Cash on Delivery
+714,CUST6254,2024-09-25,West,Sports,Home Office,6,493.68,0.22,2310.42,1367.06,943.36,Net Banking
+715,CUST2687,2024-01-08,West,Clothing,Consumer,2,492.86,0.1,887.15,657.26,229.89,UPI
+716,CUST9776,2024-04-30,West,Clothing,Consumer,2,434.86,0.22,678.38,502.13,176.25,Net Banking
+717,CUST4982,2024-01-26,North,Home & Kitchen,Consumer,9,41.31,0.22,290.0,226.25,63.75,Credit Card
+718,CUST2634,2024-06-17,West,Clothing,Corporate,9,287.1,0.17,2144.64,1445.44,699.2,Net Banking
+719,CUST7402,2024-02-13,East,Clothing,Corporate,8,13.74,0.25,82.44,65.11,17.33,Cash on Delivery
+720,CUST6261,2024-04-07,West,Electronics,Corporate,3,285.82,0.07,797.44,633.03,164.41,UPI
+721,CUST8092,2024-04-04,West,Clothing,Corporate,1,293.42,0.06,275.81,219.22,56.59,Net Banking
+722,CUST8125,2024-05-15,West,Sports,Corporate,4,329.19,0.03,1277.26,797.19,480.07,Credit Card
+723,CUST7012,2024-09-10,East,Clothing,Home Office,8,222.89,0.06,1676.13,852.83,823.3,Cash on Delivery
+724,CUST8217,2024-07-05,South,Beauty,Corporate,3,317.03,0.2,760.87,516.04,244.83,Cash on Delivery
+725,CUST3887,2024-09-13,West,Electronics,Home Office,2,275.41,0.26,407.61,284.08,123.53,Cash on Delivery
+726,CUST3223,2024-03-24,South,Clothing,Home Office,8,100.99,0.01,799.84,438.12,361.72,Credit Card
+727,CUST7845,2024-10-12,East,Sports,Consumer,6,452.86,0.08,2499.79,1448.48,1051.31,Credit Card
+728,CUST2990,2024-11-02,East,Electronics,Home Office,9,101.38,0.1,821.18,538.09,283.09,Net Banking
+729,CUST6584,2024-11-23,North,Sports,Consumer,7,365.22,0.14,2198.62,1290.1,908.52,Cash on Delivery
+730,CUST8481,2024-11-02,West,Sports,Consumer,9,100.11,0.27,657.72,366.46,291.26,Net Banking
+731,CUST2897,2024-08-31,South,Sports,Corporate,8,127.56,0.29,724.54,498.09,226.45,Debit Card
+732,CUST4535,2024-12-12,East,Beauty,Home Office,6,288.77,0.17,1438.07,867.27,570.8,Debit Card
+733,CUST4363,2024-09-11,South,Beauty,Consumer,3,380.88,0.22,891.26,497.15,394.11,Debit Card
+734,CUST8378,2024-01-24,South,Home & Kitchen,Consumer,10,15.06,0.17,125.0,89.18,35.82,Debit Card
+735,CUST4649,2024-05-20,North,Sports,Corporate,6,34.74,0.06,195.93,134.73,61.2,Credit Card
+736,CUST2148,2024-02-28,East,Clothing,Home Office,10,314.42,0.28,2263.82,1238.64,1025.18,Cash on Delivery
+737,CUST8192,2024-09-03,North,Clothing,Home Office,8,431.24,0.11,3070.43,2038.01,1032.42,Credit Card
+738,CUST8438,2024-01-19,East,Electronics,Home Office,6,203.72,0.29,867.85,650.31,217.54,Net Banking
+739,CUST2943,2024-09-21,East,Sports,Corporate,1,264.08,0.01,261.44,175.66,85.78,Credit Card
+740,CUST9269,2024-11-16,East,Electronics,Consumer,7,301.36,0.22,1645.43,1247.35,398.08,Credit Card
+741,CUST3977,2024-05-15,North,Sports,Consumer,7,155.23,0.01,1075.74,657.09,418.65,UPI
+742,CUST6633,2024-12-30,South,Beauty,Corporate,7,262.87,0.24,1398.47,1000.25,398.22,Cash on Delivery
+743,CUST1163,2024-03-12,West,Beauty,Consumer,9,146.74,0.04,1267.83,818.42,449.41,Cash on Delivery
+744,CUST2189,2024-02-10,West,Clothing,Corporate,9,439.42,0.29,2807.89,1432.64,1375.25,UPI
+745,CUST7698,2024-06-21,South,Home & Kitchen,Consumer,3,140.25,0.06,395.5,231.5,164.0,Credit Card
+746,CUST5948,2024-06-09,West,Clothing,Home Office,7,496.34,0.25,2605.78,1398.64,1207.14,Debit Card
+747,CUST7961,2024-09-10,West,Electronics,Consumer,8,403.04,0.17,2676.19,1798.59,877.6,Debit Card
+748,CUST5849,2024-05-22,North,Home & Kitchen,Home Office,6,348.04,0.13,1816.77,984.45,832.32,UPI
+749,CUST3989,2024-10-02,South,Clothing,Home Office,1,134.44,0.2,107.55,61.36,46.19,Net Banking
+750,CUST6660,2024-05-14,South,Beauty,Consumer,5,229.75,0.04,1102.8,699.72,403.08,UPI
+751,CUST5984,2024-10-31,East,Clothing,Home Office,2,322.71,0.12,567.97,374.51,193.46,Net Banking
+752,CUST1968,2024-01-17,North,Clothing,Corporate,5,347.61,0.28,1251.4,673.3,578.1,UPI
+753,CUST4215,2024-07-28,North,Electronics,Consumer,9,370.63,0.19,2701.89,1858.13,843.76,Net Banking
+754,CUST2923,2024-05-28,East,Beauty,Home Office,5,83.53,0.12,367.53,223.05,144.48,Credit Card
+755,CUST5784,2024-05-31,North,Clothing,Home Office,4,272.98,0.12,960.89,514.61,446.28,Cash on Delivery
+756,CUST1697,2024-05-31,North,Clothing,Consumer,6,219.55,0.15,1119.71,863.88,255.83,Debit Card
+757,CUST2402,2024-02-14,South,Sports,Home Office,7,333.93,0.27,1706.38,1361.55,344.83,Credit Card
+758,CUST2340,2024-07-31,East,Sports,Home Office,10,340.58,0.05,3235.51,2430.5,805.01,Credit Card
+759,CUST7797,2024-03-27,South,Beauty,Corporate,10,221.93,0.08,2041.76,1037.09,1004.67,Credit Card
+760,CUST8664,2024-05-16,South,Home & Kitchen,Corporate,8,107.69,0.21,680.6,439.51,241.09,Debit Card
+761,CUST5896,2024-02-06,East,Electronics,Consumer,10,71.32,0.24,542.03,301.6,240.43,UPI
+762,CUST6940,2024-03-07,East,Electronics,Consumer,4,114.23,0.2,365.54,218.96,146.58,UPI
+763,CUST4327,2024-03-07,West,Clothing,Home Office,3,364.78,0.02,1072.45,836.85,235.6,Credit Card
+764,CUST6469,2024-06-18,West,Home & Kitchen,Corporate,8,312.04,0.15,2121.87,1445.36,676.51,UPI
+765,CUST5474,2024-12-03,North,Beauty,Corporate,8,177.58,0.08,1306.99,721.64,585.35,Net Banking
+766,CUST6210,2024-11-06,West,Electronics,Home Office,1,423.44,0.04,406.5,308.86,97.64,Debit Card
+767,CUST4743,2024-03-30,West,Home & Kitchen,Home Office,3,216.38,0.15,551.77,422.85,128.92,Cash on Delivery
+768,CUST9943,2024-12-19,West,Clothing,Home Office,4,391.3,0.15,1330.42,781.54,548.88,Net Banking
+769,CUST9492,2024-02-11,West,Electronics,Home Office,3,258.71,0.18,636.43,478.82,157.61,Net Banking
+770,CUST5453,2024-06-09,East,Beauty,Consumer,3,212.71,0.16,536.03,343.16,192.87,Cash on Delivery
+771,CUST4192,2024-09-14,North,Home & Kitchen,Consumer,5,220.11,0.2,880.44,470.22,410.22,UPI
+772,CUST4356,2024-12-29,East,Clothing,Home Office,1,108.27,0.28,77.95,60.16,17.79,Net Banking
+773,CUST3615,2024-06-09,South,Beauty,Home Office,2,456.15,0.12,802.82,419.97,382.85,Debit Card
+774,CUST9796,2024-10-03,East,Home & Kitchen,Home Office,4,214.83,0.23,661.68,396.38,265.3,Cash on Delivery
+775,CUST1878,2024-06-26,North,Beauty,Corporate,3,182.94,0.23,422.59,213.37,209.22,Debit Card
+776,CUST3636,2024-08-19,South,Clothing,Home Office,10,84.51,0.17,701.43,528.24,173.19,Debit Card
+777,CUST2455,2024-09-03,South,Electronics,Consumer,8,319.23,0.09,2323.99,1334.87,989.12,Net Banking
+778,CUST6311,2024-08-02,South,Sports,Consumer,9,296.6,0.23,2055.44,1618.42,437.02,Net Banking
+779,CUST9687,2024-05-28,East,Sports,Corporate,6,261.74,0.24,1193.53,752.09,441.44,Net Banking
+780,CUST1091,2024-10-07,North,Beauty,Home Office,5,85.93,0.05,408.17,260.49,147.68,Credit Card
+781,CUST7540,2024-07-22,East,Home & Kitchen,Home Office,5,186.24,0.29,661.15,444.47,216.68,Credit Card
+782,CUST3196,2024-09-27,North,Home & Kitchen,Consumer,2,196.8,0.14,338.5,171.61,166.89,Net Banking
+783,CUST2975,2024-06-13,West,Home & Kitchen,Consumer,5,155.7,0.05,739.57,590.12,149.45,Credit Card
+784,CUST3091,2024-08-17,West,Home & Kitchen,Corporate,2,430.36,0.09,783.26,493.38,289.88,Cash on Delivery
+785,CUST8499,2024-07-25,North,Electronics,Home Office,1,218.23,0.27,159.31,84.16,75.15,Credit Card
+786,CUST9646,2024-08-17,East,Sports,Consumer,8,329.68,0.2,2109.95,1065.44,1044.51,Cash on Delivery
+787,CUST6863,2024-06-29,East,Electronics,Home Office,5,441.27,0.16,1853.33,1017.8,835.53,Credit Card
+788,CUST4791,2024-10-30,North,Home & Kitchen,Corporate,4,456.48,0.25,1369.44,1078.67,290.77,Debit Card
+789,CUST4021,2024-07-17,East,Home & Kitchen,Corporate,5,233.51,0.02,1144.2,640.87,503.33,UPI
+790,CUST2953,2024-02-09,North,Beauty,Corporate,10,135.78,0.22,1059.08,809.7,249.38,Net Banking
+791,CUST3776,2024-12-02,East,Electronics,Home Office,10,273.49,0.05,2598.15,1398.62,1199.53,Debit Card
+792,CUST2970,2024-10-28,North,Electronics,Consumer,7,334.11,0.03,2268.61,1724.04,544.57,Net Banking
+793,CUST3271,2024-07-16,East,Sports,Corporate,4,48.22,0.17,160.09,92.2,67.89,Cash on Delivery
+794,CUST2346,2024-07-30,East,Electronics,Consumer,10,184.28,0.18,1511.1,1000.75,510.35,Debit Card
+795,CUST8629,2024-03-10,North,Beauty,Home Office,2,283.98,0.11,505.48,402.76,102.72,Debit Card
+796,CUST5295,2024-07-30,East,Electronics,Consumer,1,100.74,0.16,84.62,63.94,20.68,Net Banking
+797,CUST3471,2024-09-12,North,Beauty,Home Office,1,483.8,0.29,343.5,196.96,146.54,UPI
+798,CUST3420,2024-10-09,West,Sports,Corporate,4,308.81,0.24,938.78,617.45,321.33,UPI
+799,CUST9114,2024-02-03,North,Clothing,Home Office,8,363.27,0.08,2673.67,1675.97,997.7,Debit Card
+800,CUST5688,2024-06-06,East,Beauty,Home Office,3,132.93,0.06,374.86,296.43,78.43,Cash on Delivery
+801,CUST8127,2024-10-08,West,Home & Kitchen,Consumer,3,458.44,0.06,1292.8,711.58,581.22,Cash on Delivery
+802,CUST7426,2024-05-07,North,Beauty,Consumer,4,221.79,0.1,798.44,620.62,177.82,Net Banking
+803,CUST8305,2024-06-25,South,Electronics,Consumer,8,440.82,0.02,3456.03,2264.49,1191.54,UPI
+804,CUST7644,2024-10-02,West,Home & Kitchen,Corporate,2,401.29,0.1,722.32,541.25,181.07,Cash on Delivery
+805,CUST8502,2024-03-18,East,Electronics,Consumer,3,110.32,0.19,268.08,204.49,63.59,UPI
+806,CUST1628,2024-03-24,North,Electronics,Corporate,4,365.83,0.08,1346.25,1033.63,312.62,UPI
+807,CUST1299,2024-02-13,East,Electronics,Corporate,9,34.53,0.04,298.34,221.55,76.79,Credit Card
+808,CUST8319,2024-09-22,East,Sports,Home Office,10,57.27,0.27,418.07,329.8,88.27,UPI
+809,CUST7692,2024-05-25,East,Sports,Home Office,6,369.79,0.01,2196.55,1599.76,596.79,Cash on Delivery
+810,CUST2830,2024-10-11,South,Clothing,Consumer,2,241.11,0.26,356.84,224.71,132.13,Credit Card
+811,CUST9916,2024-04-24,West,Beauty,Consumer,7,190.73,0.05,1268.35,896.1,372.25,Cash on Delivery
+812,CUST2302,2024-01-23,North,Beauty,Corporate,9,450.21,0.26,2998.4,1767.73,1230.67,Credit Card
+813,CUST2138,2024-12-04,West,Beauty,Corporate,5,158.18,0.01,782.99,558.89,224.1,Debit Card
+814,CUST4150,2024-08-20,West,Electronics,Corporate,10,121.83,0.09,1108.65,637.57,471.08,Credit Card
+815,CUST4435,2024-06-04,East,Sports,Consumer,5,266.29,0.06,1251.56,743.38,508.18,Cash on Delivery
+816,CUST8580,2024-01-28,South,Home & Kitchen,Consumer,8,273.66,0.17,1817.1,1289.24,527.86,UPI
+817,CUST5313,2024-05-09,East,Home & Kitchen,Corporate,7,345.62,0.07,2249.99,1739.76,510.23,Credit Card
+818,CUST7932,2024-04-01,West,Electronics,Consumer,2,290.69,0.15,494.17,381.29,112.88,Cash on Delivery
+819,CUST7774,2024-08-25,South,Beauty,Consumer,7,313.28,0.09,1995.59,1445.08,550.51,Credit Card
+820,CUST8869,2024-02-09,North,Sports,Consumer,1,332.44,0.03,322.47,245.85,76.62,Cash on Delivery
+821,CUST6264,2024-09-04,East,Sports,Home Office,3,273.18,0.27,598.26,377.24,221.02,Credit Card
+822,CUST9409,2024-11-09,South,Home & Kitchen,Home Office,6,195.73,0.09,1068.69,730.76,337.93,Credit Card
+823,CUST7765,2024-12-15,South,Clothing,Home Office,7,72.47,0.13,441.34,271.42,169.92,Cash on Delivery
+824,CUST9165,2024-04-03,North,Clothing,Corporate,2,495.06,0.2,792.1,451.63,340.47,UPI
+825,CUST3782,2024-07-14,East,Beauty,Corporate,8,429.85,0.09,3129.31,2377.76,751.55,UPI
+826,CUST5127,2024-08-31,South,Home & Kitchen,Corporate,10,45.05,0.26,333.37,234.97,98.4,Debit Card
+827,CUST8955,2024-05-31,West,Home & Kitchen,Home Office,5,101.8,0.27,371.57,256.56,115.01,Net Banking
+828,CUST6387,2024-12-26,West,Beauty,Consumer,8,214.88,0.23,1323.66,790.45,533.21,Credit Card
+829,CUST8894,2024-12-08,East,Electronics,Corporate,5,288.69,0.24,1097.02,803.92,293.1,Credit Card
+830,CUST6019,2024-08-19,North,Beauty,Corporate,8,82.82,0.2,530.05,341.49,188.56,Cash on Delivery
+831,CUST7492,2024-10-13,West,Clothing,Consumer,9,63.81,0.19,465.17,300.74,164.43,Net Banking
+832,CUST8460,2024-06-09,East,Beauty,Consumer,1,274.48,0.04,263.5,209.09,54.41,Credit Card
+833,CUST2545,2024-06-02,West,Clothing,Consumer,6,201.87,0.22,944.75,480.54,464.21,UPI
+834,CUST5901,2024-02-18,East,Electronics,Corporate,8,428.44,0.07,3187.59,1743.44,1444.15,Net Banking
+835,CUST2756,2024-06-24,East,Beauty,Consumer,10,47.27,0.19,382.89,208.95,173.94,Debit Card
+836,CUST7105,2024-02-15,South,Sports,Consumer,10,425.83,0.01,4215.72,3361.23,854.49,Debit Card
+837,CUST9480,2024-11-03,West,Electronics,Consumer,4,418.93,0.13,1457.88,1005.51,452.37,Credit Card
+838,CUST3079,2024-04-25,North,Clothing,Corporate,4,421.16,0.04,1617.25,1000.07,617.18,Net Banking
+839,CUST6071,2024-07-15,East,Beauty,Consumer,3,35.7,0.07,99.6,72.25,27.35,Cash on Delivery
+840,CUST5629,2024-07-07,East,Electronics,Home Office,1,149.35,0.04,143.38,73.56,69.82,Credit Card
+841,CUST2932,2024-03-11,West,Home & Kitchen,Consumer,7,329.42,0.24,1752.51,1112.26,640.25,UPI
+842,CUST7972,2024-11-22,West,Home & Kitchen,Consumer,9,93.5,0.08,774.18,393.73,380.45,Debit Card
+843,CUST4619,2024-04-19,North,Beauty,Home Office,3,398.28,0.01,1182.89,750.53,432.36,UPI
+844,CUST4558,2024-03-08,North,Sports,Corporate,5,42.61,0.28,153.4,85.27,68.13,Net Banking
+845,CUST5855,2024-01-18,West,Home & Kitchen,Consumer,1,266.13,0.07,247.5,182.15,65.35,Net Banking
+846,CUST1755,2024-01-07,South,Home & Kitchen,Home Office,9,219.59,0.08,1818.21,921.26,896.95,UPI
+847,CUST3949,2024-12-28,South,Electronics,Corporate,6,107.46,0.12,567.39,291.9,275.49,Cash on Delivery
+848,CUST5482,2024-06-25,North,Clothing,Corporate,1,425.14,0.26,314.6,210.1,104.5,Credit Card
+849,CUST7017,2024-06-08,South,Home & Kitchen,Consumer,4,67.73,0.11,241.12,125.7,115.42,UPI
+850,CUST2761,2024-12-02,West,Home & Kitchen,Consumer,10,287.75,0.28,2071.8,1609.31,462.49,UPI
+851,CUST6860,2024-05-05,North,Electronics,Corporate,7,116.05,0.22,633.63,389.83,243.8,Credit Card
+852,CUST8982,2024-10-06,East,Home & Kitchen,Home Office,5,494.69,0.25,1855.09,1380.99,474.1,Credit Card
+853,CUST5922,2024-09-02,West,Sports,Home Office,7,216.22,0.13,1316.78,852.84,463.94,Debit Card
+854,CUST8952,2024-02-24,East,Sports,Corporate,6,429.66,0.2,2062.37,1332.5,729.87,Cash on Delivery
+855,CUST7974,2024-02-19,West,Sports,Home Office,1,192.58,0.18,157.92,97.15,60.77,UPI
+856,CUST8011,2024-03-27,West,Clothing,Corporate,5,84.32,0.02,413.17,246.33,166.84,Debit Card
+857,CUST2829,2024-04-03,South,Clothing,Home Office,4,81.66,0.12,287.44,200.6,86.84,Net Banking
+858,CUST7228,2024-07-09,North,Beauty,Consumer,7,472.92,0.05,3144.92,2383.24,761.68,Credit Card
+859,CUST6292,2024-06-07,North,Beauty,Corporate,10,66.48,0.08,611.62,459.45,152.17,UPI
+860,CUST7551,2024-11-17,South,Sports,Home Office,5,384.58,0.06,1807.53,1024.29,783.24,UPI
+861,CUST4285,2024-10-14,West,Sports,Corporate,7,119.87,0.27,612.54,387.96,224.58,UPI
+862,CUST5811,2024-04-25,South,Beauty,Corporate,1,356.22,0.24,270.73,143.16,127.57,Debit Card
+863,CUST6946,2024-08-13,West,Home & Kitchen,Corporate,4,432.77,0.3,1211.76,848.19,363.57,Net Banking
+864,CUST1628,2024-01-29,East,Electronics,Corporate,10,340.82,0.28,2453.9,1372.24,1081.66,Cash on Delivery
+865,CUST7085,2024-03-19,South,Home & Kitchen,Consumer,5,319.06,0.21,1260.29,931.21,329.08,UPI
+866,CUST2869,2024-02-29,South,Electronics,Home Office,5,253.54,0.29,900.07,630.46,269.61,Debit Card
+867,CUST5118,2024-06-09,West,Electronics,Consumer,5,295.9,0.28,1065.24,696.72,368.52,Debit Card
+868,CUST8355,2024-06-23,South,Home & Kitchen,Corporate,5,107.16,0.28,385.78,264.47,121.31,Net Banking
+869,CUST7087,2024-05-30,West,Beauty,Consumer,6,15.96,0.29,67.99,51.01,16.98,Credit Card
+870,CUST2504,2024-09-19,East,Electronics,Home Office,1,45.2,0.09,41.13,21.37,19.76,Debit Card
+871,CUST9228,2024-08-05,South,Sports,Home Office,9,296.95,0.22,2084.59,1348.56,736.03,Debit Card
+872,CUST6635,2024-10-23,North,Sports,Corporate,6,41.51,0.18,204.23,142.07,62.16,Net Banking
+873,CUST9047,2024-10-07,East,Sports,Corporate,8,280.53,0.16,1885.16,984.56,900.6,Cash on Delivery
+874,CUST3112,2024-07-31,East,Sports,Consumer,4,146.28,0.23,450.54,273.97,176.57,Debit Card
+875,CUST8327,2024-07-08,North,Electronics,Consumer,6,263.07,0.07,1467.93,783.7,684.23,Cash on Delivery
+876,CUST3538,2024-06-18,East,Beauty,Corporate,8,428.09,0.03,3321.98,2531.18,790.8,Net Banking
+877,CUST6570,2024-06-30,South,Sports,Corporate,10,37.4,0.05,355.3,190.99,164.31,Cash on Delivery
+878,CUST7843,2024-06-06,East,Clothing,Corporate,7,442.37,0.22,2415.34,1395.94,1019.4,Debit Card
+879,CUST1342,2024-11-13,West,Clothing,Home Office,1,10.48,0.01,10.38,6.97,3.41,Credit Card
+880,CUST7514,2024-07-28,North,Clothing,Home Office,8,204.58,0.04,1571.17,1236.14,335.03,Debit Card
+881,CUST6201,2024-10-10,South,Beauty,Consumer,7,491.04,0.02,3368.53,2336.32,1032.21,Cash on Delivery
+882,CUST9726,2024-12-29,South,Beauty,Corporate,1,169.08,0.18,138.65,82.19,56.46,UPI
+883,CUST8921,2024-01-15,North,Sports,Corporate,2,62.05,0.04,119.14,79.4,39.74,Debit Card
+884,CUST6421,2024-11-02,North,Clothing,Home Office,6,147.35,0.08,813.37,632.07,181.3,Cash on Delivery
+885,CUST1156,2024-05-27,North,Sports,Corporate,4,205.46,0.27,599.94,422.2,177.74,Cash on Delivery
+886,CUST5297,2024-06-30,West,Sports,Corporate,3,148.1,0.13,386.54,228.57,157.97,Net Banking
+887,CUST7677,2024-04-18,West,Clothing,Corporate,6,427.7,0.11,2283.92,1469.53,814.39,UPI
+888,CUST9100,2024-07-02,West,Electronics,Home Office,5,408.98,0.0,2044.9,1425.07,619.83,Debit Card
+889,CUST9930,2024-07-06,North,Electronics,Home Office,10,467.79,0.12,4116.55,2611.22,1505.33,Net Banking
+890,CUST5825,2024-10-13,West,Sports,Corporate,10,233.47,0.12,2054.54,1230.56,823.98,Net Banking
+891,CUST6854,2024-01-19,West,Clothing,Home Office,6,426.3,0.15,2174.13,1299.25,874.88,Credit Card
+892,CUST3294,2024-09-05,West,Electronics,Consumer,9,355.07,0.14,2748.24,1609.2,1139.04,Cash on Delivery
+893,CUST9816,2024-05-17,West,Clothing,Home Office,2,162.83,0.27,237.73,132.04,105.69,Credit Card
+894,CUST9756,2024-03-27,East,Home & Kitchen,Corporate,9,255.83,0.2,1841.98,1337.22,504.76,Net Banking
+895,CUST1463,2024-11-19,West,Home & Kitchen,Corporate,2,404.76,0.03,785.23,521.06,264.17,UPI
+896,CUST1140,2024-04-04,South,Clothing,Consumer,6,126.39,0.2,606.67,473.0,133.67,UPI
+897,CUST4148,2024-07-20,West,Home & Kitchen,Home Office,9,312.84,0.28,2027.2,1105.06,922.14,UPI
+898,CUST1110,2024-01-23,East,Beauty,Corporate,8,32.55,0.3,182.28,131.98,50.3,UPI
+899,CUST1128,2024-07-25,West,Electronics,Consumer,4,176.53,0.22,550.77,362.88,187.89,Debit Card
+900,CUST9762,2024-09-08,West,Home & Kitchen,Corporate,2,214.85,0.05,408.21,324.96,83.25,Cash on Delivery
+901,CUST4146,2024-06-08,West,Clothing,Consumer,10,179.86,0.21,1420.89,818.26,602.63,Debit Card
+902,CUST8511,2024-07-18,East,Electronics,Consumer,6,443.31,0.17,2207.68,1597.73,609.95,Credit Card
+903,CUST8533,2024-05-23,West,Sports,Corporate,8,371.55,0.11,2645.44,1563.61,1081.83,Cash on Delivery
+904,CUST5232,2024-03-25,West,Sports,Consumer,8,375.52,0.25,2253.12,1646.79,606.33,Cash on Delivery
+905,CUST1223,2024-09-30,North,Beauty,Consumer,10,128.11,0.13,1114.56,791.33,323.23,Cash on Delivery
+906,CUST2266,2024-03-19,North,Home & Kitchen,Home Office,2,310.14,0.26,459.01,248.58,210.43,UPI
+907,CUST9407,2024-04-30,North,Sports,Consumer,5,219.34,0.14,943.16,746.61,196.55,Net Banking
+908,CUST2514,2024-03-23,North,Sports,Consumer,5,193.14,0.07,898.1,669.08,229.02,Cash on Delivery
+909,CUST3149,2024-08-22,West,Clothing,Home Office,2,252.94,0.08,465.41,338.84,126.57,Cash on Delivery
+910,CUST1932,2024-06-19,South,Clothing,Home Office,10,339.41,0.02,3326.22,2266.64,1059.58,Cash on Delivery
+911,CUST2470,2024-09-22,West,Electronics,Home Office,6,345.66,0.07,1928.78,1218.2,710.58,Debit Card
+912,CUST6052,2024-01-16,West,Clothing,Corporate,6,490.15,0.19,2382.13,1529.73,852.4,Credit Card
+913,CUST6821,2024-08-02,East,Sports,Corporate,2,134.69,0.04,258.6,194.87,63.73,Debit Card
+914,CUST2670,2024-09-08,North,Beauty,Corporate,1,323.33,0.19,261.9,183.48,78.42,Credit Card
+915,CUST2590,2024-06-04,North,Beauty,Home Office,5,149.71,0.07,696.15,409.02,287.13,Credit Card
+916,CUST9595,2024-07-13,South,Clothing,Home Office,9,158.34,0.21,1125.8,848.42,277.38,Net Banking
+917,CUST3157,2024-03-16,West,Clothing,Home Office,5,91.12,0.23,350.81,280.25,70.56,Net Banking
+918,CUST7848,2024-12-19,North,Sports,Consumer,9,247.16,0.01,2202.2,1144.6,1057.6,Credit Card
+919,CUST7033,2024-02-12,West,Sports,Home Office,9,241.79,0.3,1523.28,898.22,625.06,Debit Card
+920,CUST6392,2024-02-24,West,Clothing,Consumer,8,402.6,0.21,2544.43,1382.17,1162.26,Cash on Delivery
+921,CUST4168,2024-07-31,North,Electronics,Home Office,7,143.07,0.22,781.16,488.41,292.75,UPI
+922,CUST7583,2024-03-14,West,Clothing,Corporate,3,91.5,0.26,203.13,112.7,90.43,Net Banking
+923,CUST9207,2024-08-31,East,Sports,Corporate,3,94.07,0.17,234.23,149.97,84.26,Net Banking
+924,CUST2261,2024-12-17,West,Home & Kitchen,Corporate,10,280.25,0.03,2718.42,1986.58,731.84,Credit Card
+925,CUST3662,2024-11-29,South,Beauty,Corporate,4,463.38,0.14,1594.03,1258.36,335.67,Debit Card
+926,CUST8436,2024-04-18,South,Clothing,Corporate,3,184.61,0.24,420.91,212.72,208.19,Net Banking
+927,CUST4764,2024-11-11,South,Electronics,Corporate,9,290.8,0.12,2303.14,1263.86,1039.28,Net Banking
+928,CUST5246,2024-02-09,West,Home & Kitchen,Corporate,10,308.05,0.21,2433.6,1896.25,537.35,Net Banking
+929,CUST5936,2024-03-22,South,Clothing,Home Office,5,64.62,0.09,294.02,192.99,101.03,Debit Card
+930,CUST6764,2024-11-15,East,Electronics,Corporate,2,11.28,0.26,16.69,13.15,3.54,UPI
+931,CUST2431,2024-05-05,South,Electronics,Consumer,2,330.02,0.17,547.83,367.05,180.78,Cash on Delivery
+932,CUST4464,2024-03-16,West,Beauty,Consumer,9,444.41,0.24,3039.76,2115.27,924.49,Credit Card
+933,CUST4307,2024-01-10,North,Beauty,Corporate,10,388.84,0.11,3460.68,2351.31,1109.37,Debit Card
+934,CUST8715,2024-08-20,West,Beauty,Corporate,8,65.53,0.19,424.63,242.89,181.74,Debit Card
+935,CUST6997,2024-07-10,West,Beauty,Home Office,9,491.52,0.14,3804.36,2200.63,1603.73,UPI
+936,CUST2030,2024-08-20,South,Beauty,Consumer,3,386.21,0.07,1077.53,622.41,455.12,UPI
+937,CUST4010,2024-04-21,West,Electronics,Consumer,2,356.0,0.08,655.04,332.96,322.08,Net Banking
+938,CUST4222,2024-03-28,South,Sports,Corporate,8,479.78,0.28,2763.53,1581.62,1181.91,UPI
+939,CUST9267,2024-06-23,South,Sports,Home Office,9,214.17,0.14,1657.68,1110.71,546.97,Net Banking
+940,CUST7493,2024-05-29,South,Electronics,Home Office,3,409.87,0.07,1143.54,887.46,256.08,Net Banking
+941,CUST3010,2024-11-11,East,Home & Kitchen,Corporate,1,55.46,0.22,43.26,32.97,10.29,Cash on Delivery
+942,CUST5715,2024-04-15,North,Home & Kitchen,Corporate,10,325.17,0.24,2471.29,1530.02,941.27,UPI
+943,CUST1722,2024-07-13,North,Sports,Corporate,7,107.31,0.19,608.45,358.32,250.13,Credit Card
+944,CUST5082,2024-03-02,North,Electronics,Consumer,9,132.05,0.1,1069.61,565.89,503.72,UPI
+945,CUST1560,2024-01-12,South,Clothing,Home Office,1,410.83,0.26,304.01,235.33,68.68,UPI
+946,CUST9351,2024-10-31,East,Home & Kitchen,Corporate,7,21.65,0.18,124.27,94.31,29.96,Credit Card
+947,CUST6572,2024-05-11,East,Beauty,Consumer,2,289.5,0.04,555.84,301.07,254.77,Debit Card
+948,CUST3136,2024-08-18,North,Clothing,Home Office,2,424.6,0.25,636.9,365.78,271.12,Credit Card
+949,CUST5333,2024-10-09,North,Clothing,Home Office,4,44.76,0.26,132.49,75.15,57.34,Credit Card
+950,CUST7534,2024-10-02,South,Home & Kitchen,Consumer,5,79.97,0.17,331.88,195.97,135.91,UPI
+951,CUST7473,2024-12-25,East,Electronics,Home Office,4,395.8,0.23,1219.06,850.43,368.63,Cash on Delivery
+952,CUST8745,2024-02-29,South,Clothing,Consumer,8,304.05,0.09,2213.48,1219.13,994.35,Cash on Delivery
+953,CUST1254,2024-12-31,North,Electronics,Home Office,7,255.74,0.2,1432.14,1100.82,331.32,Cash on Delivery
+954,CUST6048,2024-08-24,East,Electronics,Consumer,4,136.68,0.05,519.38,388.4,130.98,Credit Card
+955,CUST1663,2024-10-25,East,Sports,Home Office,7,262.47,0.18,1506.58,922.67,583.91,Cash on Delivery
+956,CUST9958,2024-04-26,South,Beauty,Home Office,8,313.24,0.05,2380.62,1651.07,729.55,Net Banking
+957,CUST6709,2024-11-11,North,Electronics,Home Office,4,68.84,0.25,206.52,164.63,41.89,Net Banking
+958,CUST6592,2024-09-26,North,Beauty,Corporate,4,82.27,0.18,269.85,196.85,73.0,Cash on Delivery
+959,CUST4544,2024-07-14,South,Clothing,Corporate,8,76.41,0.27,446.23,329.86,116.37,Net Banking
+960,CUST6209,2024-02-02,East,Sports,Corporate,5,335.94,0.28,1209.38,907.41,301.97,Cash on Delivery
+961,CUST8489,2024-02-11,South,Beauty,Corporate,5,257.04,0.01,1272.35,925.23,347.12,Debit Card
+962,CUST8280,2024-06-27,West,Clothing,Corporate,3,294.09,0.08,811.69,518.59,293.1,Net Banking
+963,CUST2601,2024-04-25,South,Beauty,Home Office,4,273.54,0.29,776.85,411.94,364.91,Credit Card
+964,CUST6420,2024-05-19,East,Sports,Home Office,3,325.44,0.27,712.71,367.23,345.48,Credit Card
+965,CUST3260,2024-02-24,North,Home & Kitchen,Home Office,10,157.35,0.23,1211.6,670.24,541.36,Net Banking
+966,CUST6616,2024-01-01,South,Home & Kitchen,Corporate,7,268.73,0.14,1617.75,1276.84,340.91,Cash on Delivery
+967,CUST2091,2024-10-19,South,Beauty,Consumer,6,255.52,0.26,1134.51,670.09,464.42,Cash on Delivery
+968,CUST9952,2024-01-19,South,Electronics,Corporate,6,162.28,0.07,905.52,462.88,442.64,UPI
+969,CUST3982,2024-05-04,North,Sports,Home Office,7,460.11,0.17,2673.24,1833.53,839.71,Cash on Delivery
+970,CUST6670,2024-01-18,West,Sports,Consumer,7,365.28,0.11,2275.69,1769.8,505.89,Debit Card
+971,CUST5282,2024-06-19,South,Sports,Home Office,4,191.35,0.07,711.82,374.22,337.6,Net Banking
+972,CUST2573,2024-11-29,South,Sports,Corporate,6,449.95,0.29,1916.79,1175.81,740.98,Credit Card
+973,CUST5336,2024-11-04,North,Home & Kitchen,Consumer,6,324.56,0.24,1479.99,886.56,593.43,UPI
+974,CUST5622,2024-09-29,North,Beauty,Consumer,2,272.93,0.21,431.23,259.19,172.04,UPI
+975,CUST6344,2024-10-31,East,Electronics,Consumer,4,19.02,0.24,57.82,44.69,13.13,Debit Card
+976,CUST8956,2024-09-04,East,Clothing,Consumer,1,279.42,0.25,209.56,155.05,54.51,Credit Card
+977,CUST9314,2024-02-29,North,Clothing,Home Office,2,65.83,0.02,129.03,88.13,40.9,Debit Card
+978,CUST1466,2024-06-05,West,Clothing,Consumer,2,424.86,0.21,671.28,466.3,204.98,Cash on Delivery
+979,CUST3497,2024-03-04,East,Clothing,Consumer,3,372.51,0.21,882.85,659.63,223.22,Net Banking
+980,CUST4972,2024-09-25,East,Clothing,Consumer,5,81.44,0.24,309.47,197.67,111.8,Debit Card
+981,CUST4550,2024-12-12,South,Clothing,Corporate,8,423.77,0.24,2576.52,1501.2,1075.32,Cash on Delivery
+982,CUST7901,2024-09-21,East,Electronics,Corporate,7,131.27,0.2,735.11,409.79,325.32,Credit Card
+983,CUST2641,2024-03-30,North,Electronics,Home Office,6,296.21,0.1,1599.53,1241.37,358.16,Credit Card
+984,CUST5044,2024-05-12,North,Beauty,Home Office,7,408.63,0.14,2459.95,1559.11,900.84,Net Banking
+985,CUST5384,2024-06-19,East,Home & Kitchen,Corporate,5,264.6,0.13,1151.01,857.26,293.75,UPI
+986,CUST6680,2024-12-22,North,Electronics,Corporate,1,184.3,0.03,178.77,104.22,74.55,Cash on Delivery
+987,CUST2738,2024-11-28,South,Home & Kitchen,Consumer,8,364.32,0.26,2156.77,1415.7,741.07,UPI
+988,CUST9157,2024-07-11,West,Beauty,Consumer,6,278.72,0.09,1521.81,1211.98,309.83,UPI
+989,CUST2725,2024-02-06,North,Sports,Consumer,5,245.81,0.17,1020.11,654.06,366.05,UPI
+990,CUST5868,2024-10-21,East,Clothing,Corporate,8,158.73,0.21,1003.17,638.17,365.0,Net Banking
+991,CUST9460,2024-07-18,West,Home & Kitchen,Consumer,8,277.28,0.08,2040.78,1082.15,958.63,Credit Card
+992,CUST6589,2024-06-18,North,Clothing,Home Office,6,309.06,0.08,1706.01,972.53,733.48,UPI
+993,CUST3298,2024-08-08,South,Sports,Consumer,7,93.25,0.12,574.42,383.87,190.55,Debit Card
+994,CUST1316,2024-02-25,East,Beauty,Consumer,5,259.61,0.22,1012.48,785.38,227.1,UPI
+995,CUST9116,2024-09-29,South,Clothing,Corporate,7,278.37,0.21,1539.39,951.33,588.06,Debit Card
+996,CUST3921,2024-04-20,West,Home & Kitchen,Consumer,4,324.81,0.27,948.45,696.69,251.76,Cash on Delivery
+997,CUST8070,2024-12-12,North,Sports,Corporate,10,284.7,0.04,2733.12,1526.9,1206.22,Credit Card
+998,CUST3952,2024-09-15,West,Clothing,Consumer,4,119.33,0.14,410.5,255.61,154.89,Net Banking
+999,CUST9630,2024-09-12,West,Beauty,Corporate,7,481.23,0.27,2459.09,1247.82,1211.27,Debit Card
